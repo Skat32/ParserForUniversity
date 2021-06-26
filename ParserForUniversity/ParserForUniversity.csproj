@@ -14,7 +14,16 @@
       <PackageReference Include="AngleSharp" Version="0.16.0" />
       <PackageReference Include="Flurl" Version="3.0.2" />
       <PackageReference Include="Flurl.Http" Version="3.2.0" />
-      <PackageReference Include="Microsoft.Extensions.Configuration" Version="1.1.0" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.7" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.7">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.7">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
       <PackageReference Include="Selenium.WebDriver" Version="3.141.0" />
     </ItemGroup>
 

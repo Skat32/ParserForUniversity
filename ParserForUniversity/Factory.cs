@@ -16,9 +16,9 @@ namespace ParserForUniversity
             _ => throw new ArgumentOutOfRangeException(nameof(parser), parser, null)
         };
 
-        public static IDbService GetDbService(string connectionString)
+        public static IDbService GetDbService(string[] args)
         {
-            return new DbService(connectionString);
+            return new DbService(args);
         }
     }
 }

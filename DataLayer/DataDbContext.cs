@@ -16,7 +16,7 @@ namespace DataLayer
 
         public DbSet<Post> Posts { get; set; }
         
-        public DataDbContext(DbContextOptions<DataDbContext> options) : base(options) { }
+        public DataDbContext(DbContextOptions options) : base(options) { }
         
         public static DataDbContext CreateDbContext(string connectionStrings)
         {
@@ -27,7 +27,15 @@ namespace DataLayer
         }
         
         #region | Override methods |
-        
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Comment>().HasIndex(x => x.IdBySystem).IsUnique();
+            modelBuilder.Entity<Post>().HasIndex(x => x.IdBySystem).IsUnique();
+            
+            base.OnModelCreating(modelBuilder);
+        }
+
         public override Task<int> SaveChangesAsync(bool acceptAllChangesOnSuccess, CancellationToken cancellationToken = new())
         {
             UpdateDate(ChangeTracker);

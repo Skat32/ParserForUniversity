@@ -1,10 +1,10 @@
 using System.Threading.Tasks;
-using ParserForUniversity.Responses;
+using ParserForUniversity.Models;
 
 namespace ParserForUniversity.Interfaces
 {
     public interface IDbService
     {
-        Task SaveCommentsAsync(PostResponse postResponse);
+        Task SaveCommentsAsync(ParsedComments[] comments, string postUrl);
     }
 }

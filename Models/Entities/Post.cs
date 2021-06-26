@@ -15,9 +15,17 @@ namespace Models.Entities
         /// Комментарии
         /// </summary>
         public IEnumerable<Comment> Comments { get; set; }
-
+        
+        /// <summary>
+        /// Ссылка на пост
+        /// </summary>
         public string UrlToPost { get; set; }
         
+        /// <summary>
+        /// Идентификатор в системе
+        /// </summary>
+        public int IdBySystem { get; set; }
+
         public DateTime CreatedAt { get; set; }
         public DateTime UpdatedAt { get; set; }
         

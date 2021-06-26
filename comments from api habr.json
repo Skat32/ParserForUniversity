@@ -1,0 +1,4294 @@
+{
+  "comments": {
+    "23145280": {
+      "id": "23145280",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T14:15:52+00:00",
+      "timeChanged": "2021-06-13T14:16:58+00:00",
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 10,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Я зарегистрировал свою первую почту в 1998 году<br/>\r\n<br/>\r\n<img src=\"https://habrastorage.org/r/w780q1/webt/4e/s3/uz/4es3uzamgoji8nkadqu5vokwtdy.jpeg\" alt=\"image\" data-src=\"https://habrastorage.org/webt/4e/s3/uz/4es3uzamgoji8nkadqu5vokwtdy.jpeg\" data-blurred=\"true\"/></div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "320053",
+        "alias": "MagisterLudi",
+        "fullname": "Алексей JetHackers Стаценко",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/58b/b18/cc9/58bb18cc940f2ce0aaedcb35d3ea21b8.jpg",
+        "speciality": "Строю реактивный ранец, он же Jetpack"
+      },
+      "isAuthor": false,
+      "isPostAuthor": true,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145300",
+        "23145326",
+        "23145338",
+        "23146216"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145292": {
+      "id": "23145292",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T14:24:04+00:00",
+      "timeChanged": "2021-06-13T14:25:58+00:00",
+      "isSuspended": false,
+      "score": 2,
+      "votesCount": 8,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Когда <s>фидо</s> <s>релком</s> интернет был большим… Да, детство однажды заканчивается.<br/>\r\n<br/>\r\nКоммерции стало больше… закон природы, однако: за исследователями приходят торговцы.<br/>\r\n<br/>\r\nИнтересно, сколько человек именно в эту секунду впервые открывают интернет и что они думают о широте и глубине?</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "2688545",
+        "alias": "starpearl",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145306"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145300": {
+      "id": "23145300",
+      "parentId": "23145280",
+      "level": 1,
+      "timePublished": "2021-06-13T14:28:55+00:00",
+      "timeChanged": "2021-06-13T14:30:44+00:00",
+      "isSuspended": false,
+      "score": 2,
+      "votesCount": 6,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Помню, что <br/>\r\n1) Искал какие-то крупицы информации по поводу «Лабирина отражений» (и несколько часов качал <a href=\"https://www.youtube.com/watch?v=G1D-xYy9uhI\" rel=\"nofollow noopener noreferrer\">песню Буркина</a>)<br/>\r\n2) Обсуждали на форуме Blizzard новых юнитов, когда еще не вышел BroodWar, а была только закрытая бета (Afterburner для Валькирии)<br/>\r\n3) Искал и по полчаса (на спутниковом университеском инете) качал киберпанковские картинки</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "320053",
+        "alias": "MagisterLudi",
+        "fullname": "Алексей JetHackers Стаценко",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/58b/b18/cc9/58bb18cc940f2ce0aaedcb35d3ea21b8.jpg",
+        "speciality": "Строю реактивный ранец, он же Jetpack"
+      },
+      "isAuthor": false,
+      "isPostAuthor": true,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145678",
+        "23146334"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145306": {
+      "id": "23145306",
+      "parentId": "23145292",
+      "level": 1,
+      "timePublished": "2021-06-13T14:31:34+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">А кто приходит за торговцами? Армия?</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "320053",
+        "alias": "MagisterLudi",
+        "fullname": "Алексей JetHackers Стаценко",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/58b/b18/cc9/58bb18cc940f2ce0aaedcb35d3ea21b8.jpg",
+        "speciality": "Строю реактивный ранец, он же Jetpack"
+      },
+      "isAuthor": false,
+      "isPostAuthor": true,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145378",
+        "23145380"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145310": {
+      "id": "23145310",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T14:32:08+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 40,
+      "votesCount": 40,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Меня больше раздражает то, что куча информации ушла в неиндексируемые соцсети и видеоролики. А поисковики в ответ на половину вопросов выдают кучу мусорных страниц, где один и тот же текст разными словами набран.<br/>\r\n<br/>\r\nА что гиков стало меньше, а простых людей больше — тут ничего не поделаешь. В девяностых компьютер был гиковским устройством и интернет делался гиками для гиков. Сегодня же компьютер (телефон) есть почти у каждого, гиком быть не обязательно. Потому интернет делается для чайников. Зачастую чайниками же и делается.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "48605",
+        "alias": "aik",
+        "fullname": "Антон",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/488/219/39f/48821939f1830428bbf04e177f8c3e30.jpg",
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145522",
+        "23145544"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145326": {
+      "id": "23145326",
+      "parentId": "23145280",
+      "level": 1,
+      "timePublished": "2021-06-13T14:39:30+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 5,
+      "votesCount": 7,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Кстати, я несколько лет пользовался только Рамблером, но перешел на ya.ru потому что короче писать.<br/>\r\n<br/>\r\n<img src=\"https://habrastorage.org/r/w780q1/getpro/habr/comment_images/9eb/700/2f9/9eb7002f9f1f5077a3c62f255ce02d75.jpg\" alt=\"image\" data-src=\"https://habrastorage.org/getpro/habr/comment_images/9eb/700/2f9/9eb7002f9f1f5077a3c62f255ce02d75.jpg\" data-blurred=\"true\"/></div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "320053",
+        "alias": "MagisterLudi",
+        "fullname": "Алексей JetHackers Стаценко",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/58b/b18/cc9/58bb18cc940f2ce0aaedcb35d3ea21b8.jpg",
+        "speciality": "Строю реактивный ранец, он же Jetpack"
+      },
+      "isAuthor": false,
+      "isPostAuthor": true,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145698",
+        "23146338",
+        "23146908"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145338": {
+      "id": "23145338",
+      "parentId": "23145280",
+      "level": 1,
+      "timePublished": "2021-06-13T14:48:03+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">а я в том же году на яху и до сих пор этим ящиком пользуюсь ;)</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "1187494",
+        "alias": "usr00210",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145340"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145340": {
+      "id": "23145340",
+      "parentId": "23145338",
+      "level": 2,
+      "timePublished": "2021-06-13T14:49:28+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 3,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">В 2010х мэйлру сошел с ума и я перестал им пользоваться</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "320053",
+        "alias": "MagisterLudi",
+        "fullname": "Алексей JetHackers Стаценко",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/58b/b18/cc9/58bb18cc940f2ce0aaedcb35d3ea21b8.jpg",
+        "speciality": "Строю реактивный ранец, он же Jetpack"
+      },
+      "isAuthor": false,
+      "isPostAuthor": true,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145426"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145356": {
+      "id": "23145356",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T14:58:11+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 2,
+      "votesCount": 4,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Когда-то так же говорили про радио, потом про ТВ, теперь вот очередь интернета…</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "1187494",
+        "alias": "usr00210",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145398",
+        "23145406"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145372": {
+      "id": "23145372",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T15:20:29+00:00",
+      "timeChanged": "2021-06-13T15:21:54+00:00",
+      "isSuspended": false,
+      "score": 25,
+      "votesCount": 25,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Я в 1995 году что-ли подключился к интернет. Провайдер выдал мне домен в зоне spb.ru (в то время эти домены были бесплатные) и настроил там электронную почту. Потом в 1996 я пошел искать новую работу и поставил адрес электронной почты в резюме.<br/>\r\n<br/>\r\nНа одном из собесов чел долго-долго смотрел резюме и потом говорит.<br/>\r\n — Вот тут у вас адрес электронной почты. Я не понимают, а что это за компания.<br/>\r\n — Петерхост.<br/>\r\n — Но у вас нет в резюме Петерхост.<br/>\r\n — Я там не работал. Это провайдер Петерхост. А почта просто моя.<br/>\r\n — А домен чей?<br/>\r\n — Домен тоже мой.<br/>\r\n — То есть это что, не рабочая почта на вашей текущей работе?!<br/>\r\n — Нет. Это личная почта. К текущей или к какой-либо другой работе не имеет отношения.<br/>\r\n<br/>\r\nВ этот момент у чела случилось такое выражение лица, как будто он увидел инопланетянина, прилетевшего порабощать землян при помощи гипноза и лазерных пушек.<br/>\r\n<br/>\r\n — Так это что? Если вы мы нас наймём, то у вас будет какая-то своя почта, индивидуальная, отдельная от коллектива?! И если вы вдруг захотите уволиться и станете рассылать резюме, то мы об этом никогда не узнаем?!!! Ненене, мы вам перезвоним!</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "651123",
+        "alias": "pae174",
+        "fullname": "Александр",
+        "avatarUrl": null,
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145396",
+        "23146164",
+        "23146356"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145378": {
+      "id": "23145378",
+      "parentId": "23145306",
+      "level": 2,
+      "timePublished": "2021-06-13T15:27:08+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 17,
+      "votesCount": 17,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">За торговцами приходит ОБХСС.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "2688545",
+        "alias": "starpearl",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145700"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145380": {
+      "id": "23145380",
+      "parentId": "23145306",
+      "level": 2,
+      "timePublished": "2021-06-13T15:28:38+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 12,
+      "votesCount": 12,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><blockquote>А кто приходит за торговцами? Армия?</blockquote><br/>\r\n<br/>\r\nЧиновники</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "1087252",
+        "alias": "Exchan-ge",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145784"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145390": {
+      "id": "23145390",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T15:29:49+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Как вариант, открыть для себя локалки типа Yggdrasil и немного «побыть нердом».</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "1283096",
+        "alias": "AleksUb",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145392": {
+      "id": "23145392",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T15:30:21+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 6,
+      "votesCount": 6,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Да и сейчас подобные сайты есть, просто теряются на общем фоне. Ну и популярность их была обновлена тем что больше ничего не было. Это как фигачить крапиву палкой.</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "2071541",
+        "alias": "Mordov",
+        "fullname": null,
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/d8a/d6e/41e/d8ad6e41e461c6e1a74c539349c9d067.jpg",
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145396": {
+      "id": "23145396",
+      "parentId": "23145372",
+      "level": 1,
+      "timePublished": "2021-06-13T15:31:12+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 5,
+      "votesCount": 5,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><blockquote>то у вас будет какая-то своя почта, индивидуальная, отдельная от коллектива?! </blockquote><br/>\r\n<br/>\r\nАналогично — но совсем в другом регионе.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "1087252",
+        "alias": "Exchan-ge",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145398": {
+      "id": "23145398",
+      "parentId": "23145356",
+      "level": 1,
+      "timePublished": "2021-06-13T15:31:24+00:00",
+      "timeChanged": "2021-06-13T15:34:35+00:00",
+      "isSuspended": false,
+      "score": 12,
+      "votesCount": 12,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Когда такое про радио говорили? У нас по любительской радиосвязи всегда была цензура, и общаться было позволено только на 3 темы:</p><ol><li><p>О погоде;</p></li><li><p>О радиотехнике;</p></li><li><p>Играть в шахматы на расстоянии.</p></li></ol><p>Все остальные темы для общения под запретом!  Там и близко не было того духа свободы, который был в раннем интернете. А уж про ТВ, так то вообще говорить не приходится.</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "2667369",
+        "alias": "GospodinKolhoznik",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145524",
+        "23145938",
+        "23146826"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145402": {
+      "id": "23145402",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T15:33:30+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 5,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Когда я пришел в Интернет — 1994, был сайт Сёмы Хавкина со списком всех сайтов веба на русском языке. В списке было много линков — 50-60 где то. В основном страницы университетов.<br/>\r\n<br/>\r\nЭто был другой интернет. В чём то лучше, во много хуже.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "52312",
+        "alias": "javax",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Software architect"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145406": {
+      "id": "23145406",
+      "parentId": "23145356",
+      "level": 1,
+      "timePublished": "2021-06-13T15:34:22+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 9,
+      "votesCount": 9,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><blockquote>Когда-то так же говорили про радио, потом про ТВ, теперь вот очередь интернета…</blockquote><br/>\r\n<br/>\r\n«Через двадцать лет все по-другому будет. <br/>\r\nНе будет ни театра, ни радио, ни кино, ни телевидения. <br/>\r\nБудет один сплошной Интернет» (с) шутка из 1997 года.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "1087252",
+        "alias": "Exchan-ge",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145606",
+        "23145760",
+        "23146140"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145426": {
+      "id": "23145426",
+      "parentId": "23145340",
+      "level": 3,
+      "timePublished": "2021-06-13T15:48:36+00:00",
+      "timeChanged": "2021-06-13T15:54:31+00:00",
+      "isSuspended": false,
+      "score": 4,
+      "votesCount": 4,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Он сошел с ума где-то в 2002-2003м, когда начал показывать баннер, закрывающий список писем в почтовом ящике (при чём, этот баннер сдвигался при скроллинге с задержкой). Хотя не исключено, что я с кем-то путаю за давность лет, просто помню, что это была причиной ухода на яндекс, который примерно в то время уже появился.</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "1253030",
+        "alias": "rrrad",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146342"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145462": {
+      "id": "23145462",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T16:04:07+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 3,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">«Старый Интернет мёртв, и это большая потеря».<br/>\r\n<br/>\r\nКуда же он мёртв, если сайты, сделанные в девяностых годах, вполне работают?</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "2239326",
+        "alias": "PereslavlFoto",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Историк"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145488": {
+      "id": "23145488",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T16:32:42+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 8,
+      "votesCount": 8,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Давайте делать новый, децентрелизованный интернет, основанный на духе старого. Да, это огромная работа, и вряд ли один человек или даже небольшая группа справятся с этим вот так запросто (я точно к таким подвигам не готов). Но нужно хотя-бы начать обсуждать. Анализировать, структурировать, разбивать задачи на более мелкие. подзадачи. А это уже посильный вклад для многих.<br/>\r\n<br/>\r\nСовременный интернет — это социальные сети. Все то, что раньше было сайтами на народе и geocities, перекочевало в твиттер, контактик, инстаграм и т.п. И это правильно — людям не нужен авторский вырвиглазный дизайн, им в 99% случаев вообще не нужен какой-то специальный дизайн кроме стандартного, продуманного профессиональными дизайнерами и одинакового для любых страничек. А уж заморачиваться с html разметкой подавляющее большинство непрограммистов и вовсе не хотят.<br/>\r\n<br/>\r\nНо недостаток соцсетей — наша информация больше не принадлежит нам. Она принадлежит корпорациям. Мы не скачиваем понравившийся нам контент — а просто лайкаем или репостим (я кстати скачиваю, но таких как я исчезающее меньшинство). Информация нередко теряется. С ютуба постоянно удаляют какие-то ролики, в соцсетях исчезают сообщества, банят пользователей… все это происходит незаметно, и вот мы незаметно теряем понравившуюся нам информацию. А могли бы и не терять — если бы она сохранялась оффлайн, и если бы расшаривалась между друзьями и подписчиками по p2p протоколам.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "71864",
+        "alias": "NeoCode",
+        "fullname": null,
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/cd3/38b/97c/cd338b97cafb28b92d6d87092fd82b93.png",
+        "speciality": "Programmer"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145604",
+        "23145774",
+        "23145952",
+        "23146238"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145500": {
+      "id": "23145500",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T16:38:08+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 3,
+      "votesCount": 5,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Такое каждый раз происходит, когда причины ностальгии ищутся снаружи, а не внутри.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "2185309",
+        "alias": "acidhouse",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145516": {
+      "id": "23145516",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T16:46:23+00:00",
+      "timeChanged": "2021-06-13T16:47:17+00:00",
+      "isSuspended": false,
+      "score": 7,
+      "votesCount": 7,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">На HackerNews <a href=\"https://news.ycombinator.com/item?id=27492459\" rel=\"nofollow noopener noreferrer\">перефразировали</a> Брэдбери: <br/>\r\n<blockquote>«Вы скучаете не по былому Интернету, а по некоторым вещам, которые были в былом Интернете. То же самое может быть в Интернете сегодня. Вы ищете не там. Ищите и находите там, где вы можете найти: на старых пластинках для фонографов, старых кинофильмах и у старых друзей; ищите это в природе и ищите в себе.<br/>\r\n<br/>\r\nБылой Интернет был только одним типом вместилища, где мы хранили множество вещей, которые боялись забыть… Магия заключается только в том, что говорит Интернет, в том, как он сшил для нас кусочки Вселенной в одну одежду.<br/>\r\n<br/>\r\nБылой Интернет показал поры и морщинки на лице жизни. Комфортным людям нужны только восковые лунные лица, без пор, безволосых, невыразительных. Мы живем в то время, когда цветы пытаются жить на цветах, вместо того, чтобы расти на хорошем дожде и чернзёме.»</blockquote></div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "320053",
+        "alias": "MagisterLudi",
+        "fullname": "Алексей JetHackers Стаценко",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/58b/b18/cc9/58bb18cc940f2ce0aaedcb35d3ea21b8.jpg",
+        "speciality": "Строю реактивный ранец, он же Jetpack"
+      },
+      "isAuthor": false,
+      "isPostAuthor": true,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145964"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145520": {
+      "id": "23145520",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T16:47:17+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Первый почтовый адрес был невыразимо длинным, с мешаниной цифр букв и чего-то там demos. В 2002м захостился на Караване, ходил к ним в офис и платил в кассу.</p><p>До этого заливал сайты на fortunecity.com, интересная была идея... Вечером можно было звонить на модемный пул компании и выходить в инет (это не поощрялось, но после работы линии были свободны). Тогда еще по звуку модема было понятно, на какой скорости он сконнектится.</p><p>Ну и незабываемый чат Кроватка и посиделки в Текиле-бум на Дорогомиловской... </p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "1681689",
+        "alias": "beerware",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Инженер"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145522": {
+      "id": "23145522",
+      "parentId": "23145310",
+      "level": 1,
+      "timePublished": "2021-06-13T16:47:24+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 4,
+      "votesCount": 4,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Ох, ежели бы он делался чайниками… А то ведь он делается профессионалами. В основном в области SEO.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "1016702",
+        "alias": "wormball",
+        "fullname": null,
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/4e3/c05/4f9/4e3c054f9c45c6826a8d89a8d838cc65.png",
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145524": {
+      "id": "23145524",
+      "parentId": "23145398",
+      "level": 2,
+      "timePublished": "2021-06-13T16:47:34+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 3,
+      "votesCount": 3,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>А \"пакет\" с BBS'ками поверх AX.25 — не оно?</p></div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "269411",
+        "alias": "VT100",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146246",
+        "23146838"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145544": {
+      "id": "23145544",
+      "parentId": "23145310",
+      "level": 1,
+      "timePublished": "2021-06-13T16:54:57+00:00",
+      "timeChanged": "2021-06-13T16:56:06+00:00",
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Пока — помогает <a href=\"https://habr.com/ru/post/437618/\">расширенный поиск</a> у корпорации Бобра. Типа — \"поискать страницы со ссылками на [url]\".<br/>\r\nНа рубеже 10-х — разучил операторы поиска Тындекса и пользовался только им много лет. Но потом — дебилы всё сломали для выдачи \"котиков\" и пришлось вернуться к баранам.</p></div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "269411",
+        "alias": "VT100",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146340"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145568": {
+      "id": "23145568",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T17:02:34+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 3,
+      "votesCount": 5,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Раньше сайтов было больше — факт. Как то и сам не заметил, как мой, повседневный список используемых ресурсов измеряется теперь единицами.<br/>\r\nОчень для многих людей сегодня и вовсе Интернет == Вконтакте.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "359339",
+        "alias": "Bonio",
+        "fullname": "Антон",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/7ac/6fe/095/7ac6fe0956158fa0d105bdec3dedf122.jpg",
+        "speciality": "PHP разработчик"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146672"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145572": {
+      "id": "23145572",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T17:03:47+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 7,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">«А раньше трава была зеленее». Это все из этой серии :)</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "71018",
+        "alias": "anatolius",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145578": {
+      "id": "23145578",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T17:07:08+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Но интернет неоднороден, и можно попробовать научиться «плавать» в его линиях и слоях. Крутые ребята толпой уходят в соцсети, а кроме соцсетей что тут у нас имеется? И кто этим пользуется?<br/>\r\n<br/>\r\nТакого плана дифференцирование.<br/>\r\n<br/>\r\nСоцсети тоже норовят разветвиться на текстовые, картиночные и звуковые. Снова грядет деление аудитории.<br/>\r\n<br/>\r\nПонятно, что идея о переизбытке мусорных инфопотоков не нова, но она же работает. Скажем, городской форум в моем городе пережил наплыв идиотов и жив-здоров до сих пор, нормально можно общаться. Да, заходят боты и рекламщики, но и живых людей много…<br/>\r\n<br/>\r\nБольше беспокоит государственный интерес к регулированию Всемирной сети (и к употреблению чудес веб-пространства на благо государства), честно говоря.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "542970",
+        "alias": "svob",
+        "fullname": "Svetlana Kozlova",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/466/897/366/466897366e2fa80ed9b7f11caf75717a.jpg",
+        "speciality": "Во всяком случае, писать я умею ¯\\_(ツ)_/¯"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145604": {
+      "id": "23145604",
+      "parentId": "23145488",
+      "level": 1,
+      "timePublished": "2021-06-13T17:22:14+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 5,
+      "votesCount": 5,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><blockquote>Давайте делать </blockquote><br/>\r\nЭ не, так вы никаких единомышленников не найдете.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "1497343",
+        "alias": "goldrobot",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145640"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145606": {
+      "id": "23145606",
+      "parentId": "23145406",
+      "level": 2,
+      "timePublished": "2021-06-13T17:22:32+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 3,
+      "votesCount": 5,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Не будет ни ТЭЛа, ни язвы, ни переломов — один сплошной короновирус (с) реальность из 2020</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "60608",
+        "alias": "nerudo",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145640": {
+      "id": "23145640",
+      "parentId": "23145604",
+      "level": 2,
+      "timePublished": "2021-06-13T17:42:54+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Единомышленники — это единомышленники, а вовсе не те кто за меня всё сделают:)<br/>\r\nЯ высказываю какие-то идеи, другие читают, задумываются, возможно у кого-то есть схожие мысли. Кто-то напишет интересный комментарий, кто-то даже статью, возникнет обсуждение… в общем вот это и будут единомышленники.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "71864",
+        "alias": "NeoCode",
+        "fullname": null,
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/cd3/38b/97c/cd338b97cafb28b92d6d87092fd82b93.png",
+        "speciality": "Programmer"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145652": {
+      "id": "23145652",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T17:45:40+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">«Старый» Интернет не мёртв, он просто расслоился. <br/>\r\nРаньше как? Идёшь на сайт фанатов Звёздных Войн, там и фанфики, и канон, и арты, и пародии — всё.<br/>\r\nТеперь фанфики на сайтах фанфиков, арты на сайтах артов, канон в даркнете (чтоб без ссылок), а обсуждения забанены модераторами на всём вышеперечисленном, они тоже отдельно, в ВК и под обзорами на Ютубе. <br/>\r\nКак-то так. Если поискать — всё осталось.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "215489",
+        "alias": "Areek",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145658": {
+      "id": "23145658",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T17:46:38+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 12,
+      "votesCount": 14,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Приход коммерции - это мелочи по сравнению с приходом государства.</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "50408",
+        "alias": "Azya",
+        "fullname": "aka Feya",
+        "avatarUrl": null,
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145804",
+        "23146148"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145678": {
+      "id": "23145678",
+      "parentId": "23145300",
+      "level": 2,
+      "timePublished": "2021-06-13T17:56:06+00:00",
+      "timeChanged": "2021-06-13T17:56:20+00:00",
+      "isSuspended": false,
+      "score": 17,
+      "votesCount": 17,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>А сейчас Лукьяненко промышляет тем, что пишет заказные вбросы про электросамокаты и пишет погонные метры третьесортной космооперы.</p></div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "40505",
+        "alias": "mikhailian",
+        "fullname": "mikhailian",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/248/7a3/313/2487a331378decdf2dee17211f60d7c1.jpg",
+        "speciality": "Ломастер"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145770"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145680": {
+      "id": "23145680",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T17:56:12+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 4,
+      "votesCount": 4,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Я как-то заглянул в Tor. Так тамошние сайты — точь-в-точь интернет начала нулевых. Разнообразный, но при этом плоско-htmlный дизайн. Мигающие баннеры на чёрном фоне. Каталоги ссылок и плохо работающие поисковики. Много контента, который принято считать не вполне легальным. Так, может, там и есть тот самый прекрасный интернет прошлого?..<br/>\r\n<br/>\r\nЕдинственное что: не пользуйтесь Tor, пользуйтесь i2p :)</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "1259538",
+        "alias": "StjarnornasFred",
+        "fullname": "Валентин",
+        "avatarUrl": null,
+        "speciality": "Неизлечимый оптимист"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145728",
+        "23145756"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145698": {
+      "id": "23145698",
+      "parentId": "23145326",
+      "level": 2,
+      "timePublished": "2021-06-13T18:04:22+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 7,
+      "votesCount": 7,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Я долго пользовался Рамблером. И у него тоже был короткий адрес. r0.ru</p></div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "18336",
+        "alias": "maggg",
+        "fullname": "Иван Золотов",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/09e/559/691/09e559691572a4fd07c8d4cc46aa2f99.jpg",
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146808"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145700": {
+      "id": "23145700",
+      "parentId": "23145378",
+      "level": 3,
+      "timePublished": "2021-06-13T18:05:43+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Шутка за пятьдесят. )</p></div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "18336",
+        "alias": "maggg",
+        "fullname": "Иван Золотов",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/09e/559/691/09e559691572a4fd07c8d4cc46aa2f99.jpg",
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145704": {
+      "id": "23145704",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T18:09:12+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 6,
+      "votesCount": 6,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Проблема ещё в том, что интернет монополизируется. Крупные площадки вбирают в себя столько контента и набирают такую популярность, что небольшим сайтам не пробиться в выдачу. В итоге, они решают размещать контент на этих больших площадках и ещё больше снижается предложение альтернативы.</p><p>На этих больших площадках сильно представлена цензура и творцы перестают ходить по краю и их контент становится очень нейтральным и беззубым.</p><p>Ну и самая большая проблема, это система рекомендаций, которая показывает тебе исключительно контент из твоих текущих интересов. Как итог, у тебя сильно поляризуется восприятие мира, и ты думаешь, что большинство имеет такое же мнение, как и у тебя. Это закрывает доступ к новому опыту.</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "1278774",
+        "alias": "balberbro",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145800",
+        "23146488"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145728": {
+      "id": "23145728",
+      "parentId": "23145680",
+      "level": 1,
+      "timePublished": "2021-06-13T18:17:48+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Я аот глянул и2п и не нашел там поисковика...</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "1793533",
+        "alias": "HellKaim",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145750",
+        "23145788"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145750": {
+      "id": "23145750",
+      "parentId": "23145728",
+      "level": 2,
+      "timePublished": "2021-06-13T18:24:42+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">legwork.i2p</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "491092",
+        "alias": "orignal",
+        "fullname": null,
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/765/914/dea/765914deabb9ec81955ef8cedc4343a4.gif",
+        "speciality": "C++ разработчик"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145754"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145754": {
+      "id": "23145754",
+      "parentId": "23145750",
+      "level": 3,
+      "timePublished": "2021-06-13T18:25:51+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Cool, the m3n ;))</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "1793533",
+        "alias": "HellKaim",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145756": {
+      "id": "23145756",
+      "parentId": "23145680",
+      "level": 1,
+      "timePublished": "2021-06-13T18:26:04+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">I2P это как раз попытка воссоздать тот интернет: без коммерсантов, копирайстеров и цензуры.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "491092",
+        "alias": "orignal",
+        "fullname": null,
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/765/914/dea/765914deabb9ec81955ef8cedc4343a4.gif",
+        "speciality": "C++ разработчик"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145798"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145760": {
+      "id": "23145760",
+      "parentId": "23145406",
+      "level": 2,
+      "timePublished": "2021-06-13T18:28:32+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 2,
+      "votesCount": 2,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Как тут не вспомнить отличную песню <i>Машины времени</i>:<br/>\r\n<br/>\r\n<div class=\"spoiler\" role=\"button\" tabindex=\"0\">\n                        <b class=\"spoiler_title\">20 лет</b>\n                        <div class=\"spoiler_text\">Обещаньям я не верил<br/>\r\nИ не буду верить впредь:<br/>\r\nОбещаньям верить<br/>\r\nСмысла больше нет.<br/>\r\nНо, сказать по правде,<br/>\r\nЯ хотел бы только посмотреть,<br/>\r\nПосмотреть, что будет с нашим миром<br/>\r\nЧерез двадцать лет,<br/>\r\nЧто же будет с миром<br/>\r\nЧерез двадцать лет.<br/>\r\nМожет быть, все люди будут<br/>\r\nЖить в одной большой стране,<br/>\r\nНад которой будет<br/>\r\nВечный солнца свет,<br/>\r\nЧерез двадцать лет уже никто<br/>\r\nНе вспомнит о войне,<br/>\r\nЕсли только с нами что-то будет<br/>\r\nЧерез двадцать лет,<br/>\r\nЕсли что-то будет<br/>\r\nЧерез двадцать лет.<br/>\r\nДвадцать лет — немалый срок,<br/>\r\nИ ты за двадцать лет поймешь,<br/>\r\nЧто такое тьма<br/>\r\nИ что такое свет.<br/>\r\nЧерез двадцать лет забудут люди,<br/>\r\nЧто такое ложь,<br/>\r\nЕсли только с ними что-то будет<br/>\r\nЧерез двадцать лет,<br/>\r\nЕсли что-то будет<br/>\r\nЧерез двадцать лет.<br/>\r\nЯ отдал бы все на свете<br/>\r\nИ просил бы об одном:<br/>\r\nЧтобы только с нами что-то было<br/>\r\nЧерез двадцать лет,<br/>\r\nЧтобы что-то было<br/>\r\nЧерез двадцать лет.<br/>\r\n</div>\n                    </div></div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "220676",
+        "alias": "claygod",
+        "fullname": "Эдуард",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/76c/16c/4cd/76c16c4cd4e235f4f110b8dfa78aad71.jpg",
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145770": {
+      "id": "23145770",
+      "parentId": "23145678",
+      "level": 3,
+      "timePublished": "2021-06-13T18:31:57+00:00",
+      "timeChanged": "2021-06-13T18:32:05+00:00",
+      "isSuspended": false,
+      "score": 3,
+      "votesCount": 3,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><blockquote>Лукьяненко промышляет тем, что пишет заказные вбросы про электросамокаты</blockquote><p>Ого. Где почитать?</p></div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "63059",
+        "alias": "Spym",
+        "fullname": "Павел Кириенко",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/004/6fc/2c0/0046fc2c0466b69d51120fd8be104384.png",
+        "speciality": "Архитектор"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145992"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145774": {
+      "id": "23145774",
+      "parentId": "23145488",
+      "level": 1,
+      "timePublished": "2021-06-13T18:32:56+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 2,
+      "votesCount": 2,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Присоединяйтесь к I2P.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "491092",
+        "alias": "orignal",
+        "fullname": null,
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/765/914/dea/765914deabb9ec81955ef8cedc4343a4.gif",
+        "speciality": "C++ разработчик"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145818"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145780": {
+      "id": "23145780",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T18:35:05+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 3,
+      "votesCount": 3,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Интернет — это не какая-то самостоятельная, отдельная от реального мира сущность. <br/>\r\nЭто склад <i>креатива</i> (в кавычках и без) людей, которые этим самым интернетом пользуются и его наполняют.<br/>\r\nЛюдей в интернетах за последние 20-25 лет стало на порядки больше, настолько же больше стало и мусора, но полезный контент-то тоже остался, и даже приумножился.<br/>\r\n<br/>\r\nДа, доминирующие форматы общения сменялись несколько раз — эхи, потом чаты, потом форумы и блоги, а потом соцсети, постепенно поглощающие все ранее перечисленное. Но это только обертка, а не содержание.<br/>\r\n<br/>\r\nЕсли вопрос в том, что у кого-то не получается найти чего-то нужного, желанного, то варианта два — либо искать надо не там и не так, либо люди просто перестали креативить на желаемую тему. Оба варианта — проблема не «современного интернета» (читай, новых, более быстрых и удобных форм распространения контента), а скорее, самого автора, стареющего и ностальгирующего.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "485766",
+        "alias": "ChiefMate",
+        "fullname": null,
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/8cf/c3c/8fa/8cfc3c8fad4b61eb8c9a10c994e76e4f.gif",
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146132"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145782": {
+      "id": "23145782",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T18:35:09+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 4,
+      "votesCount": 6,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Я вот думаю, что не интернет изменился, а мы к нему привыкли. Что было у мальчика Жени до 1999 года, когда у него появился интернет? Книжки, телевизор, пара видеокассет и игрушки на дискетах.<br/>\r\n<br/>\r\nНо когда появился интернет — сразу везде прорвало. Это чаты, это возможность качать те же книги на lib.ru, это картинки, это, простите, порно, пока только в картинках и пока никто не видит. <br/>\r\n<br/>\r\nЭто возможность скачать клип Nightwish, пусть и вставая 2 утра для этого в 5 утра, и добавляя закладку во FlashGet.<br/>\r\n<br/>\r\nНе было почти ничего, и вот приоткрылась дверь. По этому чувству мы и скучаем. Посади нас в тюрьму, оставь нас на 10-15 лет без интернета — и мы снова испытаем то же самое чувство. Как наши родители от просмотра американского боевика после тухлых советских однодневок о приключениях советского НИИ и гениальных, но до одури надоевших классических шедевров. <br/>\r\n<br/>\r\nТак вот продолжая аналогию, был ли VHS лучше DVD? А DVD торрентов или нетфликса? Нет, но ностальгия осталась.<br/>\r\n<br/>\r\nP.S. Что я в свое время очень сильно почувствовал, так это как катастрофически упал уровень пользователей в тех же чатах в 2002-2003 годах. Когда компьютеры стали появляться у всех, даже у маргинальных слоев населения. Это единственное по чем я скучаю, зато сейчас есть хабр</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "116865",
+        "alias": "iago",
+        "fullname": null,
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/856/e16/e4d/856e16e4d19aa27aa22f7c83014d32ad.jpg",
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145784": {
+      "id": "23145784",
+      "parentId": "23145380",
+      "level": 3,
+      "timePublished": "2021-06-13T18:35:39+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 3,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Ох, боюсь приход чиновников происходит прямо сейчас и скоро мы будем с тоской вспоминать о том интернете, что сейчас.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "56557",
+        "alias": "ialexander",
+        "fullname": "Александр Игнатьев",
+        "avatarUrl": null,
+        "speciality": "Software Engineer"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146346"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145788": {
+      "id": "23145788",
+      "parentId": "23145728",
+      "level": 2,
+      "timePublished": "2021-06-13T18:37:01+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">И сайтов…</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "359339",
+        "alias": "Bonio",
+        "fullname": "Антон",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/7ac/6fe/095/7ac6fe0956158fa0d105bdec3dedf122.jpg",
+        "speciality": "PHP разработчик"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145792"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145792": {
+      "id": "23145792",
+      "parentId": "23145788",
+      "level": 3,
+      "timePublished": "2021-06-13T18:38:40+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Ну нет - сайты я там нашел :) только там ничего нет что нужно мне.</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "1793533",
+        "alias": "HellKaim",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145794": {
+      "id": "23145794",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T18:40:37+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Скучаю сильно по тому интересному интернету, где в нем было много ярких талантливых, интересных людей, а страницы были больше текстовыми с гиперссылками, чем нынешний пестрый аналог телевизора включающийся сразу с десятком баннеров.<br/>\r\n<br/>\r\nДаже искал толковый браузер чтобы отображалось как раньше, но качественных, отрезающих весь видео-флеш и другой анимированный контент не нашел.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "2622167",
+        "alias": "orion24",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145854"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145798": {
+      "id": "23145798",
+      "parentId": "23145756",
+      "level": 2,
+      "timePublished": "2021-06-13T18:45:23+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 3,
+      "votesCount": 3,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Я не совсем уверен... Воссоздать \"тот самый интернет\" можно и сегодня и без i2p.</p><p>Другое дело.. Где найти пользователей?</p><p>У нас было 3млн пользователей - теперь их 1 млрд. И из эих 3 млн, скажем 270 т. были любителями собак с черным окрасом.</p><p>Внимание: из 1 млр. их тот же %? Они разделяют одни и те же взгляды на проблему свободного выгула?</p><p>Я помню как в том же ЖЖ обиженные уьегали в свои собственные сообщества. Они иногда выживали, иногда умирали, иногда расцветали, а исходные - умирали...</p><p>Сегодня все это в соцсетях. Ровно точно так же... Но это не индексируется и не сохраняется... Но в 90% это мусорный трафик, его и не нужно сохранять.</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "1793533",
+        "alias": "HellKaim",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145966",
+        "23146880"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145800": {
+      "id": "23145800",
+      "parentId": "23145704",
+      "level": 1,
+      "timePublished": "2021-06-13T18:45:34+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 3,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>См. переход авторов Хабра в копробложики на нём же. Или я клевещу?</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "269411",
+        "alias": "VT100",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146398"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145804": {
+      "id": "23145804",
+      "parentId": "23145658",
+      "level": 1,
+      "timePublished": "2021-06-13T18:47:29+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": -9,
+      "votesCount": 15,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>КМК, при капитализме - это одно и то же.</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "269411",
+        "alias": "VT100",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145818": {
+      "id": "23145818",
+      "parentId": "23145774",
+      "level": 2,
+      "timePublished": "2021-06-13T18:53:38+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Так это скорее транспортная сеть, чем контентная. Она хороша для обеспечения анонимности, но там нет встроенных решений для поиска, распространения и структурирования контента и метаинформации о нем.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "71864",
+        "alias": "NeoCode",
+        "fullname": null,
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/cd3/38b/97c/cd338b97cafb28b92d6d87092fd82b93.png",
+        "speciality": "Programmer"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145830": {
+      "id": "23145830",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T19:03:16+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">У меня аська восьмизначная с тех времен и подписка на анекдот.ру уже более 20 лет, был Dial-Up через билайн (отец сисадмин), в 2 мбит канал в 1996 году, для тех времен летало очень быстро</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "2728347",
+        "alias": "PtiZza200",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145854": {
+      "id": "23145854",
+      "parentId": "23145794",
+      "level": 1,
+      "timePublished": "2021-06-13T19:24:58+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Их было много в процентном отношении. В численном их было мало. Хотя и побольше, чем сейчас, кмк. Но в процентном их было очень много, да.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "2642741",
+        "alias": "Bellerogrim",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145938": {
+      "id": "23145938",
+      "parentId": "23145398",
+      "level": 2,
+      "timePublished": "2021-06-13T20:10:18+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">А если человек игнорировал правила и говорил в радиоэфире о чём хотел, не называя свой позывной? Как это могли наказать, ведь бегать по всей стране за отдельным нарушителем — долго и дорого, а какой-нибудь колхозник и вовсе должен быть неуязвим, вдали от крупных населённых пунктов?</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "496530",
+        "alias": "altai2013",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23145944",
+        "23145954",
+        "23146354",
+        "23146394",
+        "23146894"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145944": {
+      "id": "23145944",
+      "parentId": "23145938",
+      "level": 3,
+      "timePublished": "2021-06-13T20:16:08+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Простой вопрос: а с кем он мог поговорить?</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "798591",
+        "alias": "maxzhurkin",
+        "fullname": "Максим",
+        "avatarUrl": null,
+        "speciality": "Энтузиаст"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145952": {
+      "id": "23145952",
+      "parentId": "23145488",
+      "level": 1,
+      "timePublished": "2021-06-13T20:21:00+00:00",
+      "timeChanged": "2021-06-13T20:40:31+00:00",
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">>Давайте делать новый, децентрелизованный интернет, основанный на духе старого. Да, это огромная работа, и вряд ли один человек или даже небольшая группа справятся с этим вот так запросто (я точно к таким подвигам не готов). Но нужно хотя-бы начать обсуждать. Анализировать, структурировать, разбивать задачи на более мелкие. подзадачи. А это уже посильный вклад для многих.<br/>\r\n<br/>\r\nХорошая статья и разумное предложение, возможно стоит начать с обсуждения главных проблем которые необходимо решить, на мой взгляд их можно разделить на три большие группы:<br/>\r\n<br/>\r\n1. информационные или content: <br/>\r\n1.1 достоверность информации — кому нужен интернет полный вранья, пропаганды, конспирологии и пр, — необходим механизм защиты, перепроверки, голосования, ранжирования достоверности, <br/>\r\n1.2 защита личных данных пользователей, включая историю использования search engines, cookies, tracking и пр.<br/>\r\n<br/>\r\n2. вопросы инфраструктуры, где размещать, как оплачивать, как поддерживать, виды доступа (платный/бесплатный), использование протоколов, и возможно разработка новых,<br/>\r\n<br/>\r\n3. координация работ, обсуждение, документирование, реализация, администрирование, правила поведения<br/>\r\n<br/>\r\nнаверняка что-нибудь упущено, просьба дополнять и корректировать, как всегда, строго imho<br/>\r\n<br/>\r\nps<br/>\r\n>svob<br/>\r\nБольше беспокоит государственный интерес к регулированию Всемирной сети (и к употреблению чудес веб-пространства на благо государства), честно говоря.<br/>\r\n<br/>\r\nэто тоже в первую голову должно быть продумано</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "192030",
+        "alias": "victor_1212",
+        "fullname": "Victor",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/d7d/952/e2a/d7d952e2a6663fa82f33e6fa96b7c9db.jpg",
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146034"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145954": {
+      "id": "23145954",
+      "parentId": "23145938",
+      "level": 3,
+      "timePublished": "2021-06-13T20:25:19+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 5,
+      "votesCount": 5,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">С одной стороны, бегать за нарушителем надо было недалеко. Хорошая радиостанция тяжёлая и стационарная.<br/>\r\n<br/>\r\nС другой стороны, милиция умела обратиться к военным, которые легко найдут радиостанцию по её сигналу.<br/>\r\n<br/>\r\nС третьей стороны, вопрос безопасности в умах стоял очень остро.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "2239326",
+        "alias": "PereslavlFoto",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Историк"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145964": {
+      "id": "23145964",
+      "parentId": "23145516",
+      "level": 1,
+      "timePublished": "2021-06-13T20:33:44+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Можно поискать через поисковик <br/>\r\nИз их описания: <blockquote>Wiby is a search engine for older style pages, lightweight and based on a subject of interest. Building a web more reminiscent of the early internet.</blockquote></div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "2340371",
+        "alias": "Lather",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145966": {
+      "id": "23145966",
+      "parentId": "23145798",
+      "level": 3,
+      "timePublished": "2021-06-13T20:34:03+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">>Воссоздать «тот самый интернет» можно и сегодня и без i2p.<br/>\r\n<br/>\r\nВсе же требуют «покончить с анонимностью в Интернете», да и всегда найдутся те, кому что-то не нравится, и будут везде жалобы строчить. Так что не получится.<br/>\r\n<br/>\r\n>Другое дело… Где найти пользователей?<br/>\r\n<br/>\r\nВот как раз «сеть гиков для гиков».</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "491092",
+        "alias": "orignal",
+        "fullname": null,
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/765/914/dea/765914deabb9ec81955ef8cedc4343a4.gif",
+        "speciality": "C++ разработчик"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23145992": {
+      "id": "23145992",
+      "parentId": "23145770",
+      "level": 4,
+      "timePublished": "2021-06-13T20:46:38+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>В <a href=\"https://www.facebook.com/profile.php?id=100015203342628\" rel=\"nofollow noopener noreferrer\">Фейсбук</a> он пишет, что за пост про электросамокаты его на неделю забанили, ну и пост естественно удалён. Даже не знаю, верить этому или нет. Если про электросамокаты вбросил, то и удалить пост он мог сам. А за дополнительный наброс ^#$%^ на вентилятор наверно ещё приплачивают. </p><br/>\r\n<p>А почему я думаю, что он вбросил оригинальный пост? Да потому, что он появился в аккурат в момент \"общественной\" кампании против электросамокатов.</p></div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "40505",
+        "alias": "mikhailian",
+        "fullname": "mikhailian",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/248/7a3/313/2487a331378decdf2dee17211f60d7c1.jpg",
+        "speciality": "Ломастер"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146000": {
+      "id": "23146000",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T20:52:58+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>может быть все это и так но я написал бы проще. старый интернет был быстрее и было меньше понтов. </p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "1743935",
+        "alias": "ivan_a_kuznetsov",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146002": {
+      "id": "23146002",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T20:53:35+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": -11,
+      "votesCount": 19,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Свободный доступ к интернету получил в 2004 году. Не весь тогда интернет тогда был таким, по которому можно «скучать». Помню, что в те годы в сети находились пачками видео, относящиеся сегодня к запрещённому контенту. Более всего меня шокировало видео, снятое боевиками второй чеченской войны. Случайно посмотрел и плохо стало. Пришлось сердечные таблетки пить. <br/>\r\nНе говоря о файлопомойках на городских peer-to-peer сетях, где валялась в общем доступе такая дичь, что с ужасом думал о детях, которым она вот так запросто доступна к просмотру. У самого дочь тогда только в школу пошла и я тщательно следил, чтобы она в интернете никуда не залезла, куда не следует. Страшно было за неё, за остальных детей и за страну в целом. Думал, куда катится мир.<br/>\r\nСегодняшний интернет немного спокойней, уже есть цензура в соцсетях, уже ловят преступников, стало жить спокойней. ИМХО, конечно.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "1118162",
+        "alias": "wwwa",
+        "fullname": "Владимир Коток",
+        "avatarUrl": null,
+        "speciality": "Веб-разработчик, вордпрессер"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146040",
+        "23146316"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146032": {
+      "id": "23146032",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T21:29:52+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 2,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Вот, я как то совсем не скучаю. Да, у меня появился инет 2005 или 2006 году, но по сути все было как в написанном автором. Сейчас же много шлака, куча рерайта, но в тоже время из этого всего можно сразу же найти нужную информацию или ответ на интересующий вопрос. А что было раньше?<br/>\r\nУчил фотошоп, а в сети было пару десятков уроков и пару нелегальных дисков. Увлекся аэрографией, но найти информацию негде было. Выход был один к поиску информации: общение на форуме — задавать вопросы — ждать ответа — уточнять и дальше все по новой. И так во всем. А через несколько лет вообще найти толкового ничего нельзя было — одни статьи портянки из ключевиков в выдаче висели.<br/>\r\nДа, сейчас все завешено баннерами, много коммерции, но а как иначе с такой конкуренцией и с расценками нашего времени. С другой стороны, скорее всего, вы и сами не раз расценки перед покупкой в инете сравнивали, даже перед офлайн покупкой той же техники или еще чего-то.<br/>\r\nСмысл держаться за прошлое. В то время все казалось лучше только потому, что еще не было такого количества информации в открытом доступе.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "1686541",
+        "alias": "Santa_Helper",
+        "fullname": "Aleksey",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/abd/718/6a0/abd7186a0bc21451dc1f6aa4cadbddd0.png",
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146494"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146034": {
+      "id": "23146034",
+      "parentId": "23145952",
+      "level": 2,
+      "timePublished": "2021-06-13T21:31:52+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">1.1 Любой механизм достоверности предполагает наличие модераторов. Которые также могут быть ангажированы. Следовательно, единственный вариант — индивидуальная распределенная система доверия. Скажем, я ставлю лайки какому-то контенту, добавляю авторов в друзья, значит я доверяю этим людям и информация, оцененная ими как хорошая, скорее всего будет интересна и мне. Да, это не избавит сеть от замкнутых сообществ тех же конспирологов… Но что делать, они тоже имеют право на свое мнение. <br/>\r\n1.2 Есть анонимные (tor, i2p...) и неанонимные (торренты, ipfs...) транспортные протоколы. Идеальным было бы для каждого запроса в сеть выбирать уровень анонимности; также выбирать уровень анонимности и для собственного распространяемого контента. Что же касается «персональных данных»… ну что делать, сама природа информации такова, что копируемость — ее естественное свойство. Значит, все что выложено в Сеть, остается там навсегда — и лучшим выходом было бы принять это и просто написать на главной странице приложения: «НЕ ПУБЛИКУЙТЕ СВОИ ПЕРСОНАЛЬНЫЕ ДАННЫЕ! Они нам не нужны. Ограничьтесь обычным никнеймом».<br/>\r\n2. Собственно два варианта: на серверах (как tor и i2p) или на компьютерах самих пользователей (как торренты и freenet). Не вижу смысла ограничиваться каким-то одним. В идеале сеть должна объединять все многочисленные существующие протоколы p2p.<br/>\r\n3. до этого еще очень далеко:)</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "71864",
+        "alias": "NeoCode",
+        "fullname": null,
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/cd3/38b/97c/cd338b97cafb28b92d6d87092fd82b93.png",
+        "speciality": "Programmer"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146112"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146040": {
+      "id": "23146040",
+      "parentId": "23146002",
+      "level": 1,
+      "timePublished": "2021-06-13T21:33:36+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 7,
+      "votesCount": 9,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Ах вот через кого государства теперь превращают интернет в аналог телевизора. Какой ужас, дети там увидят! Запретить, не пущать, интернет по талонах.</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "515348",
+        "alias": "VolodjaT",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146112": {
+      "id": "23146112",
+      "parentId": "23146034",
+      "level": 3,
+      "timePublished": "2021-06-13T22:24:12+00:00",
+      "timeChanged": "2021-06-13T22:30:01+00:00",
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">>Следовательно, единственный вариант — индивидуальная распределенная система доверия.<br/>\r\n<br/>\r\nименно, детали надо прорабатывать, imho «достоверность» скорее атрибут конкретного content, чем автора и создается/управляется пользователями, транспортные протоколы — надо смотреть, вы не помните rfc если они есть?<br/>\r\n<br/>\r\n>В идеале сеть должна объединять все многочисленные существующие протоколы p2p.<br/>\r\nне уверен, надо смотреть детали, но пока пусть<br/>\r\n<br/>\r\n>до этого еще очень далеко:)<br/>\r\nименно, placeholder<br/>\r\n<br/>\r\n>Значит, все что выложено в Сеть, остается там навсегда<br/>\r\nс этим можно поспорить, но пока оставим</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "192030",
+        "alias": "victor_1212",
+        "fullname": "Victor",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/d7d/952/e2a/d7d952e2a6663fa82f33e6fa96b7c9db.jpg",
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146118": {
+      "id": "23146118",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T22:30:29+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Это не интернет стал скучным. Это у нас, поколения бумеров, стало меньше времени на него (да и то, что нас в нём интересовало, уже изучено). А у более поздних поколений сам интернет - на -дцатом месте в списке интересов.<br/><br/>Им вообще не интересны глобальные форумы/чаты. А вот локальных у них побольше, чем у нас любых было. :)</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "33836",
+        "alias": "allter",
+        "fullname": "allter",
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146132": {
+      "id": "23146132",
+      "parentId": "23145780",
+      "level": 1,
+      "timePublished": "2021-06-13T22:37:51+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">>Если вопрос в том, что у кого-то не получается найти чего-то нужного, желанного, то варианта два — либо искать надо не там и не так,<br/>\r\n<br/>\r\nкак вы сами ищете информацию в сети не поясните?<br/>\r\nтолько используя search engines, или имеется в виду что-то другое?</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "192030",
+        "alias": "victor_1212",
+        "fullname": "Victor",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/d7d/952/e2a/d7d952e2a6663fa82f33e6fa96b7c9db.jpg",
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146140": {
+      "id": "23146140",
+      "parentId": "23145406",
+      "level": 2,
+      "timePublished": "2021-06-13T22:41:33+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Для тех, кто не смотрел, это из фильма \"Москва слезам не верит\". </p><p>Там по сюжету герой (в культурологическом смысле) дважды говорит примерно эти слова с интервалом примерно в двадцать лет, только про телевидение</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "798591",
+        "alias": "maxzhurkin",
+        "fullname": "Максим",
+        "avatarUrl": null,
+        "speciality": "Энтузиаст"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146148": {
+      "id": "23146148",
+      "parentId": "23145658",
+      "level": 1,
+      "timePublished": "2021-06-13T22:43:32+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": -4,
+      "votesCount": 4,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">как раз государство там всегда было, и сейчас есть разумеется, вопрос в его политике, типа можно как в китае, но совсем не обязательно тотальный контроль устраивать</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "192030",
+        "alias": "victor_1212",
+        "fullname": "Victor",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/d7d/952/e2a/d7d952e2a6663fa82f33e6fa96b7c9db.jpg",
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23147026"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146164": {
+      "id": "23146164",
+      "parentId": "23145372",
+      "level": 1,
+      "timePublished": "2021-06-13T22:59:42+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Человек не мог поверить что может быть две почты? =)<br/>\r\nУ меня фидо адрес был задолго до инета, и во время инета было две почты — одна на моем домене, зареганном еще бесплатно, и вторая на каком-то ящике, для получения тонны рассылок (уже тогда подумывал что не надо весь спам на личную почту тащить)</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "197079",
+        "alias": "saboteur_kiev",
+        "fullname": "Сергей Кулик",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/f45/024/bcc/f45024bcc7d7567f4c4296de5d36c0b3.jpg",
+        "speciality": "Configuration engineer"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146218"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146170": {
+      "id": "23146170",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T23:03:08+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Мой сайт появился примерно в 97, и с тех пор он всегда онлайн.<br/>\r\nНо примерно после 2010 года найти его через поисковик стало крайне сложно — теперь там в топе то фильм, то настольная игра.<br/>\r\n<br/>\r\nСпектрумовскую игрушку теперь нужно искать с припиской ZX</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "197079",
+        "alias": "saboteur_kiev",
+        "fullname": "Сергей Кулик",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/f45/024/bcc/f45024bcc7d7567f4c4296de5d36c0b3.jpg",
+        "speciality": "Configuration engineer"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146172": {
+      "id": "23146172",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-13T23:04:42+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Все и тривиально и печально. Ниже плинтуса упал \"Порог вхождения\", открыв брешь для массовой эеспансии безграмотного, агрессивного, бессмысленного и беспощадного эго обывателя с лозунгом: \"все фигня, кроме Я\". </p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "1127422",
+        "alias": "granvi",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146242"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146216": {
+      "id": "23146216",
+      "parentId": "23145280",
+      "level": 1,
+      "timePublished": "2021-06-13T23:55:11+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 4,
+      "votesCount": 4,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Я не помню когда завела первую почту. И это был странный выбор — на портале Кирилла и Мефодия КМ.РУ, просто нравился тот портал. Потом был мейл.ру, рамблер, тут.бай, ныне сосланный на яндекс. В gmail вступала по приглашению и у меня очень красивое название ящика…<br/>\r\nЗвук диал-апа — это ни с чем не сравнится. При никакущей скорости часами качали мп3шки, видео с фтп-серверов, спорили на форумах и переводили все вместе только что выпущенный Ролинг очередной томик Гарри Поттера. <br/>\r\nВ интернете того времени всегда было чем заняться…<br/>\r\nИскала инфу альтавистой и яндексом (и был даже чемпионат по поиску), долго не хотела искать гуглом, зато полюбилась в свое время нигма. Все изменяется, что-то уходит, и тогда сложно было предположить, что и интернет превратится в повод для ностальгии.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "2227860",
+        "alias": "Sava7989",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146218": {
+      "id": "23146218",
+      "parentId": "23146164",
+      "level": 2,
+      "timePublished": "2021-06-13T23:55:30+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 3,
+      "votesCount": 3,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Человек не мог поверить, что вот здесь, в коллективе, среди сотрудников компании, может завестись человек, который работает на ДРУГУЮ компанию и поэтому должен скрывать свою переписку от товарищей по труду.<br/>\r\n<br/>\r\nЧеловек привык, что работу ищут не ради денег, а ради исполнения своего профессионального долга.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "2239326",
+        "alias": "PereslavlFoto",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Историк"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146776"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146238": {
+      "id": "23146238",
+      "parentId": "23145488",
+      "level": 1,
+      "timePublished": "2021-06-14T00:39:59+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>На Хабре уже писали про такую вещь как Yggdrasil - чем вам не <s>прекрасный</s> децентрализованный интернет будущего?</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "2031927",
+        "alias": "Saiv46",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146242": {
+      "id": "23146242",
+      "parentId": "23146172",
+      "level": 1,
+      "timePublished": "2021-06-14T00:47:45+00:00",
+      "timeChanged": "2021-06-14T00:49:56+00:00",
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">ну не все так уж плохо, гуано много кругом, но есть и полезные вещи, amazon например,<br/>\r\nв 90x именно тем занимался, что вообще пакеты движет по сети, печально видеть результаты своего труда <br/>\r\nps<br/>\r\nособенно google на нервы действует</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "192030",
+        "alias": "victor_1212",
+        "fullname": "Victor",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/d7d/952/e2a/d7d952e2a6663fa82f33e6fa96b7c9db.jpg",
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146246": {
+      "id": "23146246",
+      "parentId": "23145524",
+      "level": 3,
+      "timePublished": "2021-06-14T01:01:17+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">здорово, кто-то еще x.25 помнит</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "192030",
+        "alias": "victor_1212",
+        "fullname": "Victor",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/d7d/952/e2a/d7d952e2a6663fa82f33e6fa96b7c9db.jpg",
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146736"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146316": {
+      "id": "23146316",
+      "parentId": "23146002",
+      "level": 1,
+      "timePublished": "2021-06-14T04:06:43+00:00",
+      "timeChanged": "2021-06-14T04:07:22+00:00",
+      "isSuspended": false,
+      "score": 8,
+      "votesCount": 8,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>У меня обратный опыт. Шок-контент той войны вполне себе показывали по федеральным каналам в 99м, а в сети понимание того, что не все надо смотреть/качать выработалось очень быстро. Когда понимаешь что 1 мб выкачивался от 20 минут до бесконечности, быстро учишься фильтровать стоящий контент. У меня картинки еще долго резались Оперой по умолчанию.</p></div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "38986",
+        "alias": "megahertz",
+        "fullname": "Алексей",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/c87/41e/945/c8741e945be8de6d77e0f4a515052bec.jpg",
+        "speciality": "fullstack"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146334": {
+      "id": "23146334",
+      "parentId": "23145300",
+      "level": 2,
+      "timePublished": "2021-06-14T04:23:19+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 2,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Эх, рамблер 2000х! Потом яндекс-почта в 2001, т.к. у неё был атиспам фильтр — роскош!</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "282429",
+        "alias": "Dikoy",
+        "fullname": "Сергей",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/ce5/833/1aa/ce58331aa377a9e2fb0064044b20bd8b.png",
+        "speciality": "Hardware developer"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146528"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146338": {
+      "id": "23146338",
+      "parentId": "23145326",
+      "level": 2,
+      "timePublished": "2021-06-14T04:26:26+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Рамблер был как-то больше пропиарен… Я долго искал им, потом случайно попробовал яндекс и выдача была лучше. А потом перешёл на гугл, году в 2002м, т.к. 90% искал на английском. Собственно, отечественными поисковиками и не пользовался почти после. <br/>\r\nС другой стороны, гуглпочту не перевариваю. И до сих пор пользуюсь яндексом, хотя их эксперименты с интерфейсами и раздражают.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "282429",
+        "alias": "Dikoy",
+        "fullname": "Сергей",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/ce5/833/1aa/ce58331aa377a9e2fb0064044b20bd8b.png",
+        "speciality": "Hardware developer"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146340": {
+      "id": "23146340",
+      "parentId": "23145544",
+      "level": 2,
+      "timePublished": "2021-06-14T04:27:30+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 5,
+      "votesCount": 5,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Расширенный поиск не помогает преодолеть проблему, что все блогеры ушли в YouTube, Facebook и Instagram, которые не индексируются.</p><br/>\r\n<p>Например, если раньше кто-то мог писать статьи типа \"Как починить радиоприемник Волна-003\" в своём блоге, или на сервисе блогов, где эта информация проиндексировалась бы поисковиками, и могла быть найдена каждым, а также заархивирована на archive.org, то сейчас подобная информация уйдёт в YouTube, где ее сложно найти, и где время ее жизни ограничено (YouTube удаляет старые видео и очень неохотно выдает в результатах поиска), никто не в силах создать архив копий видео YouTube. Или в Facebook, где ее вообще никто и никогда не увидит. Facebook не позволяет искать поисковым системам, не даёт возможность читать посты тем, у кого нет аккаунта (у меня — нет), встроенный поиск у него тоже практически нерабочий, и \"старую\" информацию (старше нескольких часов) он старается навсегда закопать, чтобы увеличить количество времени, проводимое пользователями на сайте (если человек не может найти что-то конкретное, значит будет долго пытаться, браузить ленту, в попытках найти искомое не используя сломанный поиск).</p><br/>\r\n<p>Это отвратительно, хотя и закономерно. Так как бороться с этим явлением невозможно, я высказал своё мнение удалив аккаунты соц. сетей (прежде всего, facebook и Instagram, кстати, теперь ни одна картинка Instagram мне не показывается, когда присылают друзья, а они это делают часто).</p></div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "2075663",
+        "alias": "eumorozov",
+        "fullname": "Евгений Морозов",
+        "avatarUrl": null,
+        "speciality": "Ведущий разработчик"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146348"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146342": {
+      "id": "23146342",
+      "parentId": "23145426",
+      "level": 4,
+      "timePublished": "2021-06-14T04:27:59+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 2,
+      "votesCount": 2,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Они и сейчас не до конца понимают зачем людям почта. Откройте их вебинтерфейс на 10 дюймовом мониторе, там адъ. Пару строчек письма умещается между футерами.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "282429",
+        "alias": "Dikoy",
+        "fullname": "Сергей",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/ce5/833/1aa/ce58331aa377a9e2fb0064044b20bd8b.png",
+        "speciality": "Hardware developer"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146722"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146346": {
+      "id": "23146346",
+      "parentId": "23145784",
+      "level": 4,
+      "timePublished": "2021-06-14T04:32:02+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">сидя в торе или что там будет за ним</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "282429",
+        "alias": "Dikoy",
+        "fullname": "Сергей",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/ce5/833/1aa/ce58331aa377a9e2fb0064044b20bd8b.png",
+        "speciality": "Hardware developer"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146348": {
+      "id": "23146348",
+      "parentId": "23146340",
+      "level": 3,
+      "timePublished": "2021-06-14T04:33:48+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 2,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">И телеграмм.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "282429",
+        "alias": "Dikoy",
+        "fullname": "Сергей",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/ce5/833/1aa/ce58331aa377a9e2fb0064044b20bd8b.png",
+        "speciality": "Hardware developer"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146546",
+        "23146660"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146354": {
+      "id": "23146354",
+      "parentId": "23145938",
+      "level": 3,
+      "timePublished": "2021-06-14T04:37:40+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Радио, не интернет. Оно излучается в одном месте и это место через VPN не перенести.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "282429",
+        "alias": "Dikoy",
+        "fullname": "Сергей",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/ce5/833/1aa/ce58331aa377a9e2fb0064044b20bd8b.png",
+        "speciality": "Hardware developer"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146530"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146356": {
+      "id": "23146356",
+      "parentId": "23145372",
+      "level": 1,
+      "timePublished": "2021-06-14T04:42:29+00:00",
+      "timeChanged": "2021-06-14T04:43:10+00:00",
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Я в резюме вставлял гиперссылки, с мониторингом, конечно. Так по ним НАЧАЛИ переходить году в 14м только… До этого переходы были исключительно редки.<br/>\r\nУже позже я понял, что девочки не знают как в Word кликнуть ссылку.<br/>\r\nПС. Многие компании просили резюме именно в doc/docx</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "282429",
+        "alias": "Dikoy",
+        "fullname": "Сергей",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/ce5/833/1aa/ce58331aa377a9e2fb0064044b20bd8b.png",
+        "speciality": "Hardware developer"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146380": {
+      "id": "23146380",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-14T05:01:13+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": -2,
+      "votesCount": 6,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Как уже надоело это нытье. Скоро весь хабр превратится в один пост с нытьем. Не было ничего хуже или лучше. Было так, как соответствует тому времени, вот и все. И информации стало больше, найти ее проще. С этим спорить вообще бессмысленно. Никому ваши чатики и аськи не нужны. Я ни по чему не скучаю. Было постно и уныло. И чем больше углубляться в прошлое, тем хуже. Живите настоящим уже.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "2707619",
+        "alias": "Davidchechen",
+        "fullname": null,
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/34e/651/253/34e6512536e1c40d0f966c55d2317933.png",
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146532"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146394": {
+      "id": "23146394",
+      "parentId": "23145938",
+      "level": 3,
+      "timePublished": "2021-06-14T05:11:22+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 2,
+      "votesCount": 2,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>пару раз можно. А так радиохулиганов, как их тогда называли, отлавливали быстро успешно, конфискуя ВСЕ, что включается в розетку</p></div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "69904",
+        "alias": "BigBeerman",
+        "fullname": null,
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/ded/e3a/7af/dede3a7afce5a3852576f8a1a1dcd6cc.jpg",
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146398": {
+      "id": "23146398",
+      "parentId": "23145800",
+      "level": 2,
+      "timePublished": "2021-06-14T05:15:43+00:00",
+      "timeChanged": "2021-06-14T05:16:50+00:00",
+      "isSuspended": false,
+      "score": 2,
+      "votesCount": 2,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Я например ушел с Хабра на Medium — гораздо более прозрачная и честная система, где доход автора зависит только от просмотра статей, и никаких привязок к +30/+50. Доходы от публикаций уже сравнялись, а возможно и обогнали прежние ;) Периодически вижу здесь свои статьи в виде переводов, хе-хе.<br/>\r\n<br/>\r\nХабр стал чисто аггрегатором корпоративных блогов, да, ну да и бог с ним, владельцам виднее.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "1071558",
+        "alias": "DmitrySpb79",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Закончил активность на Хабре"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146488": {
+      "id": "23146488",
+      "parentId": "23145704",
+      "level": 1,
+      "timePublished": "2021-06-14T06:31:45+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>hint: если интересоваться более широким набором тем, то и видеть будешь гораздо более разнообразный контент.</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "1980715",
+        "alias": "GomboTs",
+        "fullname": "Гомбо Цыдынжапов",
+        "avatarUrl": null,
+        "speciality": "Инженер-физик"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146494": {
+      "id": "23146494",
+      "parentId": "23146032",
+      "level": 1,
+      "timePublished": "2021-06-14T06:34:34+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Ага, пока мне не попался PoE smoother, я начитался говна в духе поставьте графоний на минимум, закройте лишние программы и download more ram.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "2039955",
+        "alias": "WannaCode",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146514": {
+      "id": "23146514",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-14T06:47:49+00:00",
+      "timeChanged": "2021-06-14T07:16:35+00:00",
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>В прошлом месяце, в рамках бесплодной борьбы с засильем современного интернета, я снес XAMPP и с нуля последовательно поставил и настроил LAMP.</p><p>Было так мучительно и интересно, что в итоге очнулся с подробной инструкцией в одном txt файле о том, как это все сделать пошагово и однозначно, не выходя из терминала. Совсем как тогда, когда по-другому было невозможно.</p><p>Прям нужен значок ГТО.</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "3590",
+        "alias": "astenix",
+        "fullname": "alexei lupan",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/73d/400/f0f/73d400f0fa1f7349a37eaa8076dd4fe3.jpg",
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146528": {
+      "id": "23146528",
+      "parentId": "23146334",
+      "level": 3,
+      "timePublished": "2021-06-14T06:56:22+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 2,
+      "votesCount": 2,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>У меня была почта на aport2000.ru :)</p><p>Чтобы прочитать письмо на русском языке в другой кодировке, надо было поменять кодировку все страницы в браузере.</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "3590",
+        "alias": "astenix",
+        "fullname": "alexei lupan",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/73d/400/f0f/73d400f0fa1f7349a37eaa8076dd4fe3.jpg",
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146530": {
+      "id": "23146530",
+      "parentId": "23146354",
+      "level": 4,
+      "timePublished": "2021-06-14T06:56:55+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Это понятно, но пеленгация передатчика процедура довольно затратная, требующая и спецов и мобильную радиотехнику. Тащить всё это куда-то в провинциальную глушь, дежурить там сутками в засаде, ждать выхода радиохулигана на связь только лишь для того, чтобы поймать мелкого нарушителя? Неужели СССР был готов тратить ресурсы на такое? Может, просто страх делал всю работу вместо правоохранительных органов и военных?</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "496530",
+        "alias": "altai2013",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146598",
+        "23146754"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146532": {
+      "id": "23146532",
+      "parentId": "23146380",
+      "level": 1,
+      "timePublished": "2021-06-14T06:57:26+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 4,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Раньше ноющие были молодыми и чувствовали себя на острие прогресса, на гребне волны. А сейчас волна ушла, и уже все не то.<br/>\r\n<br/>\r\nЯ знаю, я сам таким был. Носил в дипломате пару пятидюймовых дискет и чувствовал, что я круче всех.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "60139",
+        "alias": "gatoazul",
+        "fullname": null,
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/e8a/b37/985/e8ab37985f41ab9e846c149ad7c67e26.png",
+        "speciality": "Программист"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146546": {
+      "id": "23146546",
+      "parentId": "23146348",
+      "level": 4,
+      "timePublished": "2021-06-14T07:03:12+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 3,
+      "votesCount": 3,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>По этим причинам мне когда-то казалось очевидным, что Телеграм есть всего лишь мессенджер и таковым и будет (типа Миранда для аськи) — а не, не-не-не, это, видите ли, соцсеть, там движ, там никому ничего не нужно упорядочивать и (позже) искать, просто заткнись и подпишись на наш канал.</p><p>Дед хочет выпить своих таблеток!</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "3590",
+        "alias": "astenix",
+        "fullname": "alexei lupan",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/73d/400/f0f/73d400f0fa1f7349a37eaa8076dd4fe3.jpg",
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146606"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146552": {
+      "id": "23146552",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-14T07:09:17+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Как говорили на Баше «Детям нельзя в интернет. От детей интернет тупеет.»<br/>\r\nВ широком смысле дело тут не в детях, а в повышении доступности интернета в целом. <br/>\r\nРаньше туда ходили те, у кого выше технический и интеллектуальный уровень. <br/>\r\n<br/>\r\nА к донатам отношусь уважительно, намного более, чем к рекламе.<br/>\r\nЭто способ проголосовать рублём за тех, чей контент считаешь достойным.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "2420145",
+        "alias": "BrainDebugger",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146560": {
+      "id": "23146560",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-14T07:11:39+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 2,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Советские фантасты видели интернет как Информаторий, где человечеству доступна вся информация созданная человечеством.</p><p>Фантасты вероятного противника описывали мир киберпанка.</p><p>Советский Союз мёртв, мертва и его идеология. Капитализм сейчас тоже в терминальной стадии. Наше будущее - киберпанк. И мы это заслужили.</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "1815545",
+        "alias": "bat654321",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146978"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146598": {
+      "id": "23146598",
+      "parentId": "23146530",
+      "level": 5,
+      "timePublished": "2021-06-14T07:26:42+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Органы Государственной инспекции электросвязи постоянно следили за эфиром и находили незаконные передатчики с помощью подвижных пеленгаторов.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "2071433",
+        "alias": "silent_jeronimo",
+        "fullname": "Тихий Джеронимо",
+        "avatarUrl": null,
+        "speciality": "руководитель отдела маркетинга"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146606": {
+      "id": "23146606",
+      "parentId": "23146546",
+      "level": 5,
+      "timePublished": "2021-06-14T07:34:33+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Ну кстати телеграмм всё ещё можно использовать исключительно как мессенджер. И я очень долгое время так и делал. И именно в контексте мессенджера поиск там работает вполне себе неплохо. То есть нужные мне сообщения я вроде бы без особых проблема нахожу по ключевым словам. То есть это как раз таки не проблема. <br/>\r\n<br/>\r\nДругое дело что он ещё предлагает и кучу других фич. Но ими то как раз таки пользоваться совсем не обязательно.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "834568",
+        "alias": "Kanut",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146648": {
+      "id": "23146648",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-14T07:56:18+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Я пришел в Сеть, кажется, в 98 или 99м. И я больше всего скучаю по Свободе (именно с большой буквы). Когда в Сети люди могли себе позволить быть настоящими и писать то, что думают, без оглядки на товарища майора, ретивых общественников, «профессионально оскорбленных» или воинов великой справедливости. По тем жарким обсуждениям на всяких форумах и в чатах различных вопросов, за которые сейчас бы ресурс тут же хлопнули. По сайтам единомышленников, где все всех знали и без всяких рейтингов, и могли спокойно друг у друга что-то покупать почтой без мысли о том, что тебя кинут, потому что ну свои же люди. По университетским и провайдерским локалкам и ftp, где было, наверное, все, где я впервые нашел openSUSE и Мандриву, а еще огромные кучи музыки и ромов к эмуляторам. И даже по WAP-ресурсам.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "1183584",
+        "alias": "Lord_Ahriman",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Инженер-электромеханик, программист МК и ПЛК"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146650"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146650": {
+      "id": "23146650",
+      "parentId": "23146648",
+      "level": 1,
+      "timePublished": "2021-06-14T07:59:58+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><blockquote>По сайтам единомышленников, где все всех знали и без всяких рейтингов, и могли спокойно друг у друга что-то покупать почтой без мысли о том, что тебя кинут, потому что ну свои же люди.</blockquote><br/>\r\n<br/>\r\nХм, а кто вам мешает сейчас сделать такой сайт? Ну кроме отсутствия таких единомышленников? :)</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "834568",
+        "alias": "Kanut",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146666"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146660": {
+      "id": "23146660",
+      "parentId": "23146348",
+      "level": 4,
+      "timePublished": "2021-06-14T08:04:42+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>К слову, открытые группы телеги начали индексироваться и отображаться в браузере, без захода в сам мессенджер.</p></div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "2109313",
+        "alias": "dwdraugr",
+        "fullname": "Константин Мариненков",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/81b/207/59b/81b20759bdf76782f49194174d5f96e4.png",
+        "speciality": "PHP & Golang back-end developer"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146666": {
+      "id": "23146666",
+      "parentId": "23146650",
+      "level": 2,
+      "timePublished": "2021-06-14T08:08:22+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">А такие и сейчас есть, но мало, куда меньше, чем раньше. Например, GBX. Вообще, сейчас есть тенденция уходов всех этих клубов в соцсети с сильным размыванием активного ядра.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "1183584",
+        "alias": "Lord_Ahriman",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Инженер-электромеханик, программист МК и ПЛК"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146680"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146672": {
+      "id": "23146672",
+      "parentId": "23145568",
+      "level": 1,
+      "timePublished": "2021-06-14T08:12:03+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">У меня коллекция закладок тянется из 90-х. Там тысячи ссылок. Но я туда давным давно не заглядывал. Наверное, 90% уже мертвы. Сейчас на главной 5 сайтов.А 99% интернета начинается вообще с одной ссылки — google.com</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "24802",
+        "alias": "YouHim",
+        "fullname": "youhim",
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146680": {
+      "id": "23146680",
+      "parentId": "23146666",
+      "level": 3,
+      "timePublished": "2021-06-14T08:14:59+00:00",
+      "timeChanged": "2021-06-14T08:15:12+00:00",
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Трава раньше была зеленее? :)<br/>\r\n<br/>\r\nМне кажется это всё вообще не связано с тем что изменился интернет как таковой. Просто люди взрослеют, теряют интерес, находят для себя что-то другое. И с другой стороны ты и сам взрослеешь и тебе сложнее находить новые контакты или вступать/организовывать новые клубы.<br/>\r\n<br/>\r\nПросто по моему опыту такое происходит и с «оффлайн» тусовками. Старые исчезают, новые появляются. Но в новых какие-то новые люди и всё как-то по другому. И тебе туда уже не особо и хочется.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "834568",
+        "alias": "Kanut",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146722": {
+      "id": "23146722",
+      "parentId": "23146342",
+      "level": 5,
+      "timePublished": "2021-06-14T08:27:04+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">я не уверен что это имеет отношение к почте как таковой. сейчас просто выросло поколение долбоящеров, считающих что жизнь есть только на экранах от 24\" размером, и как исключение — делающих так, чтоб <i>сайтик </i>нормально работал на <i>айпадике</i> босса, которому это презентуется.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "58052",
+        "alias": "vorphalack",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146728": {
+      "id": "23146728",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-14T08:29:44+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Что-то мне поднадоело в таких постах рассказывать про своё фидошное прошлое и про то, какой он был этот ранний интернет.</p><br/>\r\n<p>Давайте я лучше расскажу про день сегодняшний.</p><br/>\r\n<p>Во-первых, я сохраняю лучшее из того, что нашлось в интернете на свой жесткий диск. Мне всё равно, сколько петабайт информации, которая интересна кому-то другому — я знаю, что мне столько не нужно, меня интересует только то, что интересно мне, мне и столько-то за жизнь не осилить. И самая большая проблема — что хочется сохранить и то, что потенциально интересно, но вот прямо говоря просто лежит и так и не смотрится.</p><br/>\r\n<p>Во-вторых, у меня есть свои островки интернета, места, которые я создал сам для себя и таких же как я. На одном из них аж 136 регистраций за все десять лет, а дата последнего входа за последние полгода лишь у пяти человек. И я сильно сомневаюсь, что это кому-то нужно кроме меня и ещё нескольки таких же повёрнутых. Самая большая проблема здесь — что людей не скопируешь к себе на винчестер, приходится искать подходящие сообщества, либо строить самому.</p></div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "24348",
+        "alias": "questor",
+        "fullname": "questor",
+        "avatarUrl": null,
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146736": {
+      "id": "23146736",
+      "parentId": "23146246",
+      "level": 4,
+      "timePublished": "2021-06-14T08:30:39+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Х.25 и АХ.25 — это две несколько разные вещи :)</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "58052",
+        "alias": "vorphalack",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146892"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146754": {
+      "id": "23146754",
+      "parentId": "23146530",
+      "level": 5,
+      "timePublished": "2021-06-14T08:36:26+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">СССР был не только готов — но и тратил, см. те же глушилки «голоса америки», например. <br/>\r\nплюс, как не странно, радиохулиган — это не только ценный фраг, но и несколько часов-дней опыта для соответствующих служб РЭБ. <br/>\r\n<br/>\r\nеще надо понимать такой момент, что где-то до второй половины 90х годов радиоэфир не только в СССР, но и вообще в мире был ОЧЕНЬ чистым и придурков там искать было весьма простой задачей.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "58052",
+        "alias": "vorphalack",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146758": {
+      "id": "23146758",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-14T08:37:04+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">В 1996 году вместо нормального dialup пользвался демо входом Демоса, где можно было подключиться к терминалу с Lynx и 15 минут смотреть несколько сайтов, ссылки на которые они там разместили на стартовой страничке. Фишка была в том, что по некоторым ссылкам в несколько шагов можно было выбраться на yahoo. А далее везде. И z-modem работал. Я там даже Slackware 3 себе скачал забесплатно. Потом обнаружил «нестандартное» поведение модемных пулов у Демоса, там можно было дозвониться на демонстрационную линию и, вбив тучу пробелов вместо гостевого логина, выпасть в оболочку циски. А оттуда уже телнетом лазать на другие их сиски и на их терминал с Lynx'oм без ограничений по времени. Написал письмо в Демос, они мне даже спасибо сказали и даже выдали бесплатный логин на их интернет на полгода. А заход на модемный пул пофиксили. Но только на один из нескольких, которые у них были. <br/>\r\nКогда кончилось, подключился через провайдера РОПНЕТ. Провайдер был отличный (от других) тем, что за 50 долларов в месяц давал безлимитный dial up. Час дозваниваешься, зато потом хоть весь день сиди, странички тяни. Год они так продержались, потом стали принудительно рвать соединение раз в два часа, чтобы кто-то мог дозвониться. Потом годы мытарств по разным провайдерам и вдруг она — Точка.РУ! Целый мегабит, ощущение полета и модем с ethernet.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "1055130",
+        "alias": "maikus",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146776": {
+      "id": "23146776",
+      "parentId": "23146218",
+      "level": 3,
+      "timePublished": "2021-06-14T08:39:55+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">… что у кого-то есть своё личное пространство вне комнаты/квартиры.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "58052",
+        "alias": "vorphalack",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146808": {
+      "id": "23146808",
+      "parentId": "23145698",
+      "level": 3,
+      "timePublished": "2021-06-14T08:51:36+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">и все еще есть)<br/>\r\nМой первый был aport</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "352973",
+        "alias": "nomn",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146826": {
+      "id": "23146826",
+      "parentId": "23145398",
+      "level": 2,
+      "timePublished": "2021-06-14T08:55:34+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Все же я бы припомнил 27MHz (и аналоги), где тематика общения была (и есть) более чем свободная. Однако да, 27MHz (и аналоги) возникли в мире сильно позже именно любительского радио, поэтому мой камент - никак не опровержение, но лишь уточнение.</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "1662955",
+        "alias": "Astroscope",
+        "fullname": null,
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/9f5/cbe/899/9f5cbe899c7449b201aad698bcdfce62.jpg",
+        "speciality": "Радиолюбитель"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146840"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146838": {
+      "id": "23146838",
+      "parentId": "23145524",
+      "level": 3,
+      "timePublished": "2021-06-14T09:04:43+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Пакет с BBS практически умер синхронно с этим вашим Фидо по тем же, по сути, причинам. Сейчас наблюдаю некоторый ренессанс, как точечно на местном УКВ, так и глобально на КВ, но масштабы, конечно, уже не те. И возврата, очевидно, до былых масштабов не будет. Останется как игрушка для немногочисленных энтузиастов - этого, как для любительского радио, уже вполне достаточно, а как для б.м. массового явления, конечно, и близко нет.</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "1662955",
+        "alias": "Astroscope",
+        "fullname": null,
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/9f5/cbe/899/9f5cbe899c7449b201aad698bcdfce62.jpg",
+        "speciality": "Радиолюбитель"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146840": {
+      "id": "23146840",
+      "parentId": "23146826",
+      "level": 3,
+      "timePublished": "2021-06-14T09:05:26+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">да и в СССР его не было, ибо по определению любой владелец балалайки должен был быть либо радиолюбителем, либо выдано по работе. либо ты хулюган или шпиён, и тебя надо в эцых.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "58052",
+        "alias": "vorphalack",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23146926"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146852": {
+      "id": "23146852",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-14T09:09:59+00:00",
+      "timeChanged": "2021-06-14T09:12:04+00:00",
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 2,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Интернет раньше был реально другой. В чем-то лучше (меньше рекламы, реклама адекватнее, адекватнее поиск, верстка сайтов адекватнее, отсутствие ненужных \"утяжелений\" на сайтах и много еще чего), в чем-то хуже (медленнее, меньше разной информации, ибо еще не успели загрузить). Но в целом баланс все же в пользу интернета старого. И это не \"трава была зеленее\". Это просто массовый приход даже не коммерции, а маркетоложства, бессмысленного и беспощадного.</p></div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "724241",
+        "alias": "geher",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146880": {
+      "id": "23146880",
+      "parentId": "23145798",
+      "level": 3,
+      "timePublished": "2021-06-14T09:25:12+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><blockquote><p>Но в 90% это мусорный трафик, его и не нужно сохранять.</p></blockquote><p>Как бы не 99%. И вопрос не столько в емкости хранилища, сколько в замусоривании выдачи поиска по сохраненному мусору.</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "1662955",
+        "alias": "Astroscope",
+        "fullname": null,
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/9f5/cbe/899/9f5cbe899c7449b201aad698bcdfce62.jpg",
+        "speciality": "Радиолюбитель"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146892": {
+      "id": "23146892",
+      "parentId": "23146736",
+      "level": 5,
+      "timePublished": "2021-06-14T09:29:08+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">про АХ.25 — не просветите что такое?<br/>\r\nХ.25 в позднем детстве делать приходилось</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "192030",
+        "alias": "victor_1212",
+        "fullname": "Victor",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/d7d/952/e2a/d7d952e2a6663fa82f33e6fa96b7c9db.jpg",
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23147030"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146894": {
+      "id": "23146894",
+      "parentId": "23145938",
+      "level": 3,
+      "timePublished": "2021-06-14T09:30:40+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>поищи на тему \"охота на лис\", отдельный вид спорта был :)</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "1140124",
+        "alias": "Fafhrd",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146908": {
+      "id": "23146908",
+      "parentId": "23145326",
+      "level": 2,
+      "timePublished": "2021-06-14T09:35:04+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>А у меня сложилось впечатление,  что Рамблер потерял популярность из-за того, что он первым начал исключать из выдачи пиратские сайты. Впрочем, наверняка дело было не только в этом. </p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "561857",
+        "alias": "Wik0",
+        "fullname": "Виктор",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/920/1fd/bd4/9201fdbd440369c25b45c3c23ffa25f9.jpg",
+        "speciality": "печати и штампы"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23147050"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146926": {
+      "id": "23146926",
+      "parentId": "23146840",
+      "level": 4,
+      "timePublished": "2021-06-14T09:43:10+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Было даже в СССР, пусть и на полвека позже, чем в мире, и пусть начинали с нестандартных относительно фактически сложившихся в мире частот. Была обязательная регистрация радиостанций. К радиолюбительству отношения не имело. То есть никакого.</p></div>",
+      "editorVersion": 2,
+      "author": {
+        "id": "1662955",
+        "alias": "Astroscope",
+        "fullname": null,
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/9f5/cbe/899/9f5cbe899c7449b201aad698bcdfce62.jpg",
+        "speciality": "Радиолюбитель"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146978": {
+      "id": "23146978",
+      "parentId": "23146560",
+      "level": 1,
+      "timePublished": "2021-06-14T09:55:44+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><blockquote>Советские фантасты видели интернет как Информаторий, где человечеству доступна вся информация созданная человечеством.</blockquote><br/>\r\nСоветские фантасты, например, Стругацкие видели интернет как общественную библиотеку, куда надо ходить по записи и к важной информации нужно иметь слежбный допуск. Западные фантасты, кстати, тоже. А вся информация человечества у нас в интернете и так есть.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "124943",
+        "alias": "Sychuan",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [
+        "23147052"
+      ],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23146988": {
+      "id": "23146988",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-14T09:59:33+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Я застал Яндекс таким и полностью согласен что раньше интернет был куда интереснее. <br/>\r\n<img src=\"/img/image-loader.svg\" alt=\"image\" data-src=\"https://habrastorage.org/getpro/habr/comment_images/75e/a05/62c/75ea0562c30adac7fec1b54b8b326254.png\"/><br/>\r\nПонятно что сейчас есть даркнет, где все еще можно найти большое количество «треша» который в обычной сети найти тяжело — но это уже совсем другая история…</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "2277576",
+        "alias": "Like_fa",
+        "fullname": "Артем Фанин",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/43d/e4d/217/43de4d217fdf9c7a16d3f06792f6ab41.png",
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23147020": {
+      "id": "23147020",
+      "parentId": null,
+      "level": 0,
+      "timePublished": "2021-06-14T10:13:30+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Как и во многих других случаях с тоской по старым явлениям или вещам (интернету, автомобилям, компьютерам, играм, фильмам и т.п.) все это чаще всего тоска по себе в те времена, по той жизни. Причем люди так устроены, что хорошее запоминается лучше, оттого прошлое у многих вспоминается в радужных тонах, если что плохое и вспоминается, то оно уже так вспоминается приглушенно или часто даже в юмористическом ключе: «Прикиньте, как я заболел десять лет назад, чуть копыта не откинул, гы-гы-гы». <br/>\r\nНу и так-же тоска по тем ощущениям, по тому «вау-эффекту», хочется все это пережить снова, вот и тянет к тем играм, к тем сайтам, к тем машинам…<br/>\r\nКак у меня со вторым Квейком было, помню собирал себе комп по частям, как деньги появлялись — прикупал что-либо, и вот наконец-то, притащил домой последнюю недостающую для запуска часть — новенький винчестер, неплохой, по тем временам, Барракуда, гиг так на двадцать, попутно заскочил к другу, взял у него винт с кучей игрушек и сидюк с разным софтом. Сел, собрал все в кучу, запустил, поставил винду со всеми дровами, и запустил вторую Кваку. Вот тогда я тот вау-эффект и словил, просидел за компом до утра следующего дня, рубился до глюков. Сейчас как-то игры вообще не цепляют, а тогда это было очень круто. Притом что я понимаю — сейчас сяду играть и буду разочарован, нет уже того ощущения новизны, да и видел уже после массу игр интереснее, с более продвинутой графикой.<br/>\r\nА первая машина — древний Жигуль семерка, который до меня укатали в хлам бравые абреки с рынка, досталась мне почти даром, массу денег и сил в нее вложил, но зато и какие эмоции были — моя машина, сел и поехал когда захотел и куда захотел!!! Сейчас хоть тоже бюджетный автомобиль, но по сравнению с той Жигой как звездолет по сравнению с телегой, а таких эмоций при покупке уже не было, ну машина и машина, ездит, внутри умеренно комфортно…</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "1951443",
+        "alias": "vvbob",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23147026": {
+      "id": "23147026",
+      "parentId": "23146148",
+      "level": 2,
+      "timePublished": "2021-06-14T10:14:49+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": -1,
+      "votesCount": 1,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">спасибо, продолжайте минусовать, типа решаю как раз, стоит ли сюда вообще заходить в будущем, полезно ваше мнение знать, так что голосуйте, начинал программировать в ранних 70x, с тех пор попеременно сети и реальное время, в создании интернет реально участвовал, спрашивается что мне здесь делать? все просто — ностальгия, типа лет 25 в россии не был</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "192030",
+        "alias": "victor_1212",
+        "fullname": "Victor",
+        "avatarUrl": "//habrastorage.org/getpro/habr/avatars/d7d/952/e2a/d7d952e2a6663fa82f33e6fa96b7c9db.jpg",
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23147030": {
+      "id": "23147030",
+      "parentId": "23146892",
+      "level": 6,
+      "timePublished": "2021-06-14T10:16:21+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">радиолюбительский же протокол, основанный на кусочке оригинального Х.25, ныне скорее вымерший до уровня отдельных маньяков.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "58052",
+        "alias": "vorphalack",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23147050": {
+      "id": "23147050",
+      "parentId": "23146908",
+      "level": 3,
+      "timePublished": "2021-06-14T10:22:03+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">та они фактически русский yahoo, начали на пустом рынке, а потом не осилили конкурировать.</div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "58052",
+        "alias": "vorphalack",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": "Пользователь"
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    },
+    "23147052": {
+      "id": "23147052",
+      "parentId": "23146978",
+      "level": 2,
+      "timePublished": "2021-06-14T10:23:01+00:00",
+      "timeChanged": null,
+      "isSuspended": false,
+      "score": 0,
+      "votesCount": 0,
+      "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><blockquote>А вся информация человечества у нас в интернете и так есть.</blockquote><p>Что, и вся засекреченная (государством или корпорациями) тоже?<br/>\r\nКроме того, наличия информации мало. Должна еще присутствовать возможность получить доступ к информации без предварительного знания \"секретного\" сайта, на который нигде нет ссылок, и поисковики не ведут.</p></div>",
+      "editorVersion": 1,
+      "author": {
+        "id": "724241",
+        "alias": "geher",
+        "fullname": null,
+        "avatarUrl": null,
+        "speciality": null
+      },
+      "isAuthor": false,
+      "isPostAuthor": false,
+      "isNew": false,
+      "isFavorite": false,
+      "isCanEdit": false,
+      "timeEditAllowedTill": null,
+      "children": [],
+      "vote": {
+        "value": null,
+        "isCanVote": false
+      }
+    }
+  },
+  "moderated": {},
+  "threads": [
+    "23145280",
+    "23145292",
+    "23145310",
+    "23145356",
+    "23145372",
+    "23145390",
+    "23145392",
+    "23145402",
+    "23145462",
+    "23145488",
+    "23145500",
+    "23145516",
+    "23145520",
+    "23145568",
+    "23145572",
+    "23145578",
+    "23145652",
+    "23145658",
+    "23145680",
+    "23145704",
+    "23145780",
+    "23145782",
+    "23145794",
+    "23145830",
+    "23146000",
+    "23146002",
+    "23146032",
+    "23146118",
+    "23146170",
+    "23146172",
+    "23146380",
+    "23146514",
+    "23146552",
+    "23146560",
+    "23146648",
+    "23146728",
+    "23146758",
+    "23146852",
+    "23146988",
+    "23147020"
+  ],
+  "commentAccess": {
+    "isCanComment": false,
+    "cantCommentReasonKey": "AUTH_REQUIRED",
+    "cantCommentReason": "Для совершения действия требуется авторизация"
+  },
+  "lastCommentTimestamp": 1623666181
+}
