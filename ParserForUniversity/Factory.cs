@@ -11,7 +11,7 @@ namespace ParserForUniversity
         /// </summary>
         public static IParser GetParser(TypeParser parser) => parser switch
         {
-            TypeParser.Html => new ParserHtml(),
+            TypeParser.Html => new ParserHtml("m.habr.com"),
             TypeParser.Api => new ParserApi(),
             _ => throw new ArgumentOutOfRangeException(nameof(parser), parser, null)
         };

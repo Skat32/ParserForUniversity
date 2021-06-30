@@ -50,7 +50,6 @@ namespace ParserForUniversity
         /// Переход на страницу
         /// </summary>
         /// <param name="url"></param>
-        /// <param name="needCheckAut"> Необходимо ли проверять авторизацию пользователя </param>
         protected void GoToUrl(string url)
         {
             MoveToUrl(url);
