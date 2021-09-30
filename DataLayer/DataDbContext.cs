@@ -10,11 +10,8 @@ namespace DataLayer
 {
     public class DataDbContext : DbContext
     {
-        public DbSet<Comment> Comments { get; set; }
 
-        public DbSet<User> Users { get; set; }
-
-        public DbSet<Post> Posts { get; set; }
+        public DbSet<Advertisement> Advertisements { get; set; }
         
         public DataDbContext(DbContextOptions options) : base(options) { }
         
@@ -30,8 +27,7 @@ namespace DataLayer
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Comment>().HasIndex(x => x.IdBySystem).IsUnique();
-            modelBuilder.Entity<Post>().HasIndex(x => x.IdBySystem).IsUnique();
+            modelBuilder.Entity<Advertisement>().HasIndex(x => x.Url).IsUnique();
             
             base.OnModelCreating(modelBuilder);
         }

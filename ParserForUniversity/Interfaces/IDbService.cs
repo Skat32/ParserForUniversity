@@ -5,6 +5,5 @@ namespace ParserForUniversity.Interfaces
 {
     public interface IDbService
     {
-        Task SaveCommentsAsync(ParsedComments[] comments, string postUrl);
     }
 }

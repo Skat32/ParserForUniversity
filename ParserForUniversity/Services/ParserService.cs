@@ -18,7 +18,8 @@ namespace ParserForUniversity.Services
         public async Task ParseAndSaveAsync(string url)
         {
             var result = await _parser.ParseAsync(url);
-            await _dbService.SaveCommentsAsync(result.ToArray(), url);
+            
+            
         }
     }
 }
