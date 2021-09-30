@@ -5,6 +5,6 @@ namespace ParserForUniversity.Interfaces
 {
     public interface IParserService
     {
-        Task ParseAndSaveAsync(string url, TypeAdvertisement advertisement);
+        Task<bool> ParseAndSaveAsync(string url, TypeAdvertisement advertisement);
     }
 }

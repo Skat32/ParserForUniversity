@@ -16,5 +16,13 @@ namespace ParserForUniversity.Interfaces
         /// </summary>
         /// <returns></returns>
         Task<string[]> GetAdvertisementsUrlsAsync();
+
+        /// <summary>
+        /// Сохранение только ссылки на пользователя
+        /// </summary>
+        /// <param name="advertisement"> ссылка на объявление, что принадлежит пользователю </param>
+        /// <param name="userLink"> ссылка на пользователя </param>
+        /// <returns></returns>
+        Task SaveUserLinkAsync(string advertisement, string userLink);
     }
 }

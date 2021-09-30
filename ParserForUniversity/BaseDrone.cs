@@ -99,7 +99,7 @@ namespace ParserForUniversity
                 html = Driver.PageSource;
                 
                 js.ExecuteScript($"window.scrollTo({scroll}, {scroll += 2000})");
-                Thread.Sleep(2000);
+                Thread.Sleep(1000);
             } while (html != Driver.PageSource);
         }
         

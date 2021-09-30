@@ -1,0 +1,14 @@
+# Use postgres/example user/password credentials
+version: '3.5'
+
+services:
+
+  avito-parser-db:
+    image: postgres:11
+    restart: always
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_USER: avito-parser
+      POSTGRES_PASSWORD: avito-parser
+      POSTGRES_DB: avito-parser-db

@@ -23,7 +23,7 @@ namespace ParserForUniversity.Services
                 .AddRangeAsync(
                     data.ParsedAdvertisements
                         .GroupBy(x => x.Url).Select(x => x.First()).ToList()
-                        .Where(advertisement => _context.Advertisements.All(x => x.Url != advertisement.Url))
+                        .Where(advertisement => !_context.Advertisements.Any() || _context.Advertisements.All(x => x.Url != advertisement.Url))
                         .Select(x => new Advertisement(x.Url, x.UrlToUser, data.TypeAdvertisement, data.UrlByParsed)
                ));
 
@@ -33,6 +33,15 @@ namespace ParserForUniversity.Services
         public async Task<string[]> GetAdvertisementsUrlsAsync()
         {
             return await _context.Advertisements.Where(x => x.UrlToUser == null).Select(x => x.Url).ToArrayAsync();
+        }
+
+        public async Task SaveUserLinkAsync(string advertisement, string userLink)
+        {
+            var advertisementDb = await _context.Advertisements.FirstOrDefaultAsync(x => x.Url == advertisement);
+            
+            advertisementDb.SetUserUrl(userLink);
+
+            await _context.SaveChangesAsync();
         }
     }
 }

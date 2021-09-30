@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
+using System.Threading;
+using OpenQA.Selenium.Interactions;
 using ParserForUniversity.Interfaces;
 using ParserForUniversity.Models;
 
@@ -11,67 +11,54 @@ namespace ParserForUniversity.Services
     {
         public ParserHtml(string urlHome) : base(urlHome) { }
         
-        public async Task<ParsedAdvertisement[]> ParseAsync(string urlToPost)
+        public ParsedAdvertisement[] Parse(string urlToPost)
         {
             GoToUrl(urlToPost);
-
             ScrollToTheEnd();
             
-            var commentElements =
+            var elements =
                 BaseParser.TakeElementsFromClassNameElements(Driver.PageSource,
-                    "tm-comment tm-comment-thread-functional");
+                    "iva-item-root-Nj_hb photo-slider-slider-_PvpN iva-item-list-H_dpX iva-item-redesign-nV4C4 iva-item-responsive-gIKjW items-item-My3ih items-listItem-Gd1jN js-catalog-item-enum");
             
-            return commentElements.Select(x => new ParsedAdvertisement("","")).ToArray();
-            
+            return elements.Select(x => new ParsedAdvertisement(ParseUrl(x.InnerHtml), ParseUserUrl(x.InnerHtml))).ToArray();
         }
 
-        public Task<string> GetNexPageAsync()
+        public string GetNexPage(int index)
         {
-            //  найти кнопку след страницы, нажать на нее и вернуть ссылку на новую страницу
+            try
+            {
+                var elements = Driver.FindElementsByXPath(".//*[@class='pagination-item-JJq_j pagination-item_arrow-Sttbt']")[index];
+                var action = new Actions(Driver);
+                action.MoveToElement(elements).Perform();
+                action.MoveToElement(elements).Click().Perform();
+                Thread.Sleep(1000);
+                return Driver.Url;
+            }
+            catch (Exception e)
+            {
+                return string.Empty;
+            }
+        }
 
-            throw new NotImplementedException();
+        public string ParseUserLink(string advertisement)
+        {
+            GoToUrl(advertisement);
+
+            var element =
+                BaseParser.TakeElementFromClassNameElement(Driver.PageSource, "seller-info-name js-seller-info-name");
+
+            return element.Children[0].Attributes.GetNamedItem("href")
+                ?.Value ?? string.Empty;
         }
 
         #region Comment
 
-        private static int ParseId(string html)
-        {
-            return int.Parse(BaseParser.TakeElementFromClassNameElement(html, "tm-comment__indent_l-0")
-                .Attributes.Single(x => x.Name == "data-comment-body").Value);
-        }
+        private static string ParseUserUrl(string html) =>
+            BaseParser.TakeUrlFromClassNameElement(html, "link-link-MbQDP link-design-inherited-Ys4mw link-novisited-UCnee ");
 
-        private static string ParseMessage(string html)
-        {
-            return BaseParser.TakeElement(html,
-                    element => element.Attributes.Any(x =>
-                        x.Name == "xmlns" && x.Value == "http://www.w3.org/1999/xhtml"))
-                .TextContent;
-        }
+        private static string ParseUrl(string html) =>
+            BaseParser.TakeUrlFromClassNameElement(html, "iva-item-sliderLink-bJ9Pv");
 
-        private static DateTime ParseTimeChanged(string html)
-        {
-            var date = BaseParser.TakeElementFromClassNameElement(html, "tm-comment-thread-functional__comment-link")
-                .TextContent;
-
-            var groups = Regex.Match(date, @"(\w+.\w+.\w+) в (\w+:\w+)").Groups;
-            
-            return DateTime.Parse(groups[1].Value + groups[2].Value);
-        }
-
-        private static bool ParseIsAuthorPost(string html)
-        {
-            return BaseParser.TakeElementFromClassNameElement(html, "tm-comment__header tm-comment__header_is-by-op") is
-                not null;
-        }
-
-        private static int? ParseParentId(string html)
-        {
-            var element = BaseParser.TakeElementFromClassNameElement(html, "tm-comment-thread-functional__children")
-                ?.ParentElement?.InnerHtml;
-            
-            return element is null ? null : ParseId(element);
-        }
-        
         #endregion
 
     }

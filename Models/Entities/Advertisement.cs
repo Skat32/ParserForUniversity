@@ -47,6 +47,11 @@ namespace Models.Entities
             UrlByParsed = urlByParsed;
             Id = Guid.NewGuid();
         }
+
+        public void SetUserUrl(string url)
+        {
+            UrlToUser = url;
+        }
     }
 
     /// <summary>

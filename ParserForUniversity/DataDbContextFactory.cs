@@ -9,7 +9,7 @@ namespace ParserForUniversity
         public DataDbContext CreateDbContext(string[] args)
         {
             var optionsBuilder = new DbContextOptionsBuilder<DataDbContext>();
-            optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=parserUniversity;Username=postgres;Password=Zkdi1778@!");
+            optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=avito-parser-db;Username=avito-parser;Password=avito-parser");
 
             return new DataDbContext(optionsBuilder.Options);
         }
