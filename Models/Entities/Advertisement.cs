@@ -17,7 +17,7 @@ namespace Models.Entities
         /// <summary>
         /// Ссылка на пользователя
         /// </summary>
-        public string UrlToUser { get; private set; }
+        public string? UrlToUser { get; private set; }
 
         /// <summary>
         /// Тип объявления
@@ -25,7 +25,7 @@ namespace Models.Entities
         public TypeAdvertisement TypeAdvertisement { get; private set; }
 
         /// <summary>
-        /// ССсылка на которой спарсили данное объявление
+        /// Ссылка на которой спарсили данное объявление
         /// </summary>
         public string UrlByParsed { get; private set; }
         
@@ -39,7 +39,7 @@ namespace Models.Entities
         /// </summary>
         public DateTime UpdatedAt { get; set; }
 
-        public Advertisement(string url, string urlToUser, TypeAdvertisement typeAdvertisement, string urlByParsed)
+        public Advertisement(string url, string? urlToUser, TypeAdvertisement typeAdvertisement, string urlByParsed)
         {
             Url = url;
             UrlToUser = urlToUser;

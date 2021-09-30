@@ -1,5 +1,4 @@
 using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
@@ -12,7 +11,7 @@ namespace ParserForUniversity.Services
     {
         public ParserHtml(string urlHome) : base(urlHome) { }
         
-        public async Task<IEnumerable<ParsedComments>> ParseAsync(string urlToPost)
+        public async Task<ParsedAdvertisement[]> ParseAsync(string urlToPost)
         {
             GoToUrl(urlToPost);
 
@@ -22,21 +21,15 @@ namespace ParserForUniversity.Services
                 BaseParser.TakeElementsFromClassNameElements(Driver.PageSource,
                     "tm-comment tm-comment-thread-functional");
             
-            return commentElements.Select(x =>
-            {
-                var dateTimeChanged = ParseTimeChanged(x.InnerHtml);
-                
-                return new ParsedComments
-                {
-                    Id = ParseId(x.InnerHtml),
-                    Message = ParseMessage(x.InnerHtml),
-                    TimeChanged = dateTimeChanged,
-                    TimePublished = dateTimeChanged, // из-за отсутствия возможности просмотреть дату создания
-                    IsPostAuthor = ParseIsAuthorPost(x.InnerHtml),
-                    Author = ParseAuthor(x.InnerHtml),
-                    ParentId = ParseParentId(x.OuterHtml)
-                };
-            });
+            return commentElements.Select(x => new ParsedAdvertisement("","")).ToArray();
+            
+        }
+
+        public Task<string> GetNexPageAsync()
+        {
+            //  найти кнопку след страницы, нажать на нее и вернуть ссылку на новую страницу
+
+            throw new NotImplementedException();
         }
 
         #region Comment
@@ -80,33 +73,6 @@ namespace ParserForUniversity.Services
         }
         
         #endregion
-        
-        #region Auhtor
 
-        private static ParsedUser ParseAuthor(string html)
-        {
-            return new ParsedUser
-            {
-                Alias = ParseAlias(html),
-                Id = 0, // нет возможности спарсить
-                Speciality = string.Empty, // нет возможности спарсить
-                FullName = string.Empty, // нет возможности спарсить
-                AvatarUrl = ParseUrlToImage(html)
-            };
-        }
-
-        private static string ParseAlias(string html)
-        {
-            return BaseParser.TakeTextFromClassNameElement(html, "tm-user-info__username");
-        }
-
-        private static string ParseUrlToImage(string html)
-        {
-            return BaseParser.TakeElementFromClassNameElement(html, "tm-entity-image__pic")?.Attributes
-                .FirstOrDefault(x => x.Name == "src")?.Value;
-        }
-        
-        #endregion
-     
     }
 }

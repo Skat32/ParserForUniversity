@@ -1,6 +1,4 @@
-using System.Collections.Generic;
 using System.Linq;
-using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using DataLayer;
 using Microsoft.EntityFrameworkCore;
@@ -18,6 +16,23 @@ namespace ParserForUniversity.Services
         {
             _context = new DataDbContextFactory().CreateDbContext(args);;
         }
-        
+
+        public async Task SaveAdvertisementsAsync(ApiModel data)
+        {
+            await _context.Advertisements
+                .AddRangeAsync(
+                    data.ParsedAdvertisements
+                        .GroupBy(x => x.Url).Select(x => x.First()).ToList()
+                        .Where(advertisement => _context.Advertisements.All(x => x.Url != advertisement.Url))
+                        .Select(x => new Advertisement(x.Url, x.UrlToUser, data.TypeAdvertisement, data.UrlByParsed)
+               ));
+
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task<string[]> GetAdvertisementsUrlsAsync()
+        {
+            return await _context.Advertisements.Where(x => x.UrlToUser == null).Select(x => x.Url).ToArrayAsync();
+        }
     }
 }
