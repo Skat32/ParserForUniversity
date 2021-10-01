@@ -7,20 +7,26 @@ namespace ParserForUniversity
 {
     class Program
     {
-        static async Task Main(string[] args)
+        private static async Task Main(string[] args)
         {
-            var parser = new ParserService(TypeParser.Html, args);
+            // await ParseApi(args);
+            await ParseHtml(args);
+        }
+
+        private static async Task ParseHtml(string[] args)
+        {
+             var parser = new ParserService(TypeParser.Html, args);
             
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("start parse RealEstateAbroad");
-            
-            if (!await parser.ParseAndSaveAsync(
-                @"https://www.avito.ru/rossiya/nedvizhimost_za_rubezhom/sdam-ASgBAgICAUSaA_AQ?cd=1&f=ASgBAgICAkSaA_AQqgn8YA",
-                TypeAdvertisement.RealEstateAbroad))
-                return;
-            
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("end parse RealEstateAbroad");
+            // Console.ForegroundColor = ConsoleColor.Yellow;
+            // Console.WriteLine("start parse RealEstateAbroad");
+            //
+            // if (!await parser.ParseAndSaveAsync(
+            //     @"https://www.avito.ru/rossiya/nedvizhimost_za_rubezhom/sdam-ASgBAgICAUSaA_AQ?cd=1&f=ASgBAgICAkSaA_AQqgn8YA",
+            //     TypeAdvertisement.RealEstateAbroad))
+            //     return;
+            //
+            // Console.ForegroundColor = ConsoleColor.Yellow;
+            // Console.WriteLine("end parse RealEstateAbroad");
             Console.WriteLine("start parse HousesOrCottages");
 
             if (!await parser.ParseAndSaveAsync(
@@ -30,32 +36,41 @@ namespace ParserForUniversity
             
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("end parse HousesOrCottages");
-            Console.WriteLine("start parse Room");
+            // Console.WriteLine("start parse Room");
+            //
+            // if (!await parser.ParseAndSaveAsync(
+            //     @"https://www.avito.ru/rossiya/komnaty/sdam/posutochno/-ASgBAgICAkSQA74QqAn4YA?cd=1",
+            //     TypeAdvertisement.Room))
+            //     return;
+            //
+            // Console.ForegroundColor = ConsoleColor.Yellow;
+            // Console.WriteLine("end parse Room");
+            // Console.WriteLine("start parse Flat");
+            //
+            // if (!await parser.ParseAndSaveAsync(
+            //     @"https://www.avito.ru/rossiya/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg",
+            //     TypeAdvertisement.Flat))
+            //     return;
+            //
+            // Console.ForegroundColor = ConsoleColor.Yellow;
+            // Console.WriteLine("end parse Flat");
+            // Console.WriteLine("start parse UserLink");
+            //
+            // await parser.ParseUserLinkAsync();
+            //
+            // Console.ForegroundColor = ConsoleColor.Yellow;
+            // Console.WriteLine("end parse UserLink");
+            //
+            // Console.ReadKey();Console.ReadKey();Console.ReadKey();Console.ReadKey();Console.ReadKey();
+        }
 
-            if (!await parser.ParseAndSaveAsync(
-                @"https://www.avito.ru/rossiya/komnaty/sdam/posutochno/-ASgBAgICAkSQA74QqAn4YA?cd=1",
-                TypeAdvertisement.Room))
-                return;
+        private static async Task ParseApi(string[] args)
+        {
+            var parser = new ParserService(TypeParser.Api, args);
 
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("end parse Room");
-            Console.WriteLine("start parse Flat");
-
-            if (!await parser.ParseAndSaveAsync(
-                @"https://www.avito.ru/rossiya/kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg",
-                TypeAdvertisement.Flat))
-                return;
-            
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("end parse Flat");
-            Console.WriteLine("start parse UserLink");
-            
-            await parser.ParseUserLinkAsync();
-            
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("end parse UserLink");
-
-            Console.ReadKey();Console.ReadKey();Console.ReadKey();Console.ReadKey();Console.ReadKey();
+            await parser.ParseAndSaveAsync(string.Empty, TypeAdvertisement.Flat);
+            await parser.ParseAndSaveAsync(string.Empty, TypeAdvertisement.Room);
+            await parser.ParseAndSaveAsync(string.Empty, TypeAdvertisement.HousesOrCottages);
         }
     }
 }
