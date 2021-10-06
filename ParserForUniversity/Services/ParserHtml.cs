@@ -42,7 +42,7 @@ namespace ParserForUniversity.Services
 
         public string ParseUserLink(string advertisement)
         {
-            GoToUrl(advertisement);
+            GoToUrl($"https://avito.ru/{advertisement}");
 
             var element =
                 BaseParser.TakeElementFromClassNameElement(Driver.PageSource, "seller-info-name js-seller-info-name");

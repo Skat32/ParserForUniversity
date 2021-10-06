@@ -105,9 +105,26 @@ namespace ParserForUniversity.Services
 
             foreach (var advertisement in advertisements)
             {
-                var result = _parser.ParseUserLink(advertisement);
+                try
+                {
+                    var result = _parser.ParseUserLink(advertisement);
+                    
+                    await _dbService.SaveUserLinkAsync(advertisement, result);
+                }
+                catch (Exception e)
+                {
+                    try
+                    {
+                        var result = _parser.ParseUserLink(advertisement);
 
-                await _dbService.SaveUserLinkAsync(advertisement, result);
+                        await _dbService.SaveUserLinkAsync(advertisement, result);
+                    }
+                    catch 
+                    {
+                        continue;
+                    }
+                }
+
             }
         }
     }

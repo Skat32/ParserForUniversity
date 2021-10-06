@@ -32,7 +32,11 @@ namespace ParserForUniversity.Services
 
         public async Task<string[]> GetAdvertisementsUrlsAsync()
         {
-            return await _context.Advertisements.Where(x => x.UrlToUser == null).Select(x => x.Url).ToArrayAsync();
+            return await _context.Advertisements
+                .AsNoTracking()
+                .Where(x => string.IsNullOrEmpty(x.UrlToUser))
+                .Select(x => x.Url)
+                .ToArrayAsync();
         }
 
         public async Task SaveUserLinkAsync(string advertisement, string userLink)
